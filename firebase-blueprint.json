@@ -1,0 +1,71 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "Student profile data with academic preferences and APS score",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "username": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "apsScore": { "type": "number" },
+        "prospectiveFaculty": { "type": "string" },
+        "targetProgram": { "type": "string" },
+        "documentsChecklist": { "type": "object" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["uid", "name", "email"]
+    },
+    "ChatMessage": {
+      "title": "ChatMessage",
+      "description": "A single chat message in a student's conversation history",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "sender": { "type": "string", "enum": ["user", "assistant", "system"] },
+        "text": { "type": "string" },
+        "timestamp": { "type": "string" },
+        "detectedLanguage": { "type": "string" },
+        "detectedLanguageName": { "type": "string" },
+        "sources": { "type": "array" }
+      },
+      "required": ["id", "userId", "sender", "text", "timestamp"]
+    },
+    "Feedback": {
+      "title": "Feedback",
+      "description": "User feedback and rating on advisor answers",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "messageId": { "type": "string" },
+        "query": { "type": "string" },
+        "responseSnippet": { "type": "string" },
+        "isHelpful": { "type": "boolean" },
+        "rating": { "type": "number" },
+        "accuracyTag": { "type": "string" },
+        "comment": { "type": "string" },
+        "timestamp": { "type": "string" }
+      },
+      "required": ["id", "messageId", "isHelpful", "rating", "timestamp"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "UserProfile",
+      "description": "Stores user profile information, restricted to the authenticated user"
+    },
+    "/users/{userId}/messages/{messageId}": {
+      "schema": "ChatMessage",
+      "description": "Stores individual conversation turns for the user"
+    },
+    "/feedbacks/{feedbackId}": {
+      "schema": "Feedback",
+      "description": "Stores student feedback ratings on advisor responses"
+    }
+  }
+}

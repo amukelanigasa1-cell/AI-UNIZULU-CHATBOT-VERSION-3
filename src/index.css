@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@layer utilities {
+  /* Modern Professional Chatbot & University Portal Styling */
+
+  /* Clean Elevated Cards */
+  .card-subtle {
+    background-color: #ffffff;
+    border: 1px solid rgba(226, 232, 240, 0.9);
+    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.04), 0 1px 2px rgba(15, 23, 42, 0.02);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .card-subtle:hover {
+    border-color: rgba(148, 163, 184, 0.8);
+    box-shadow: 0 4px 12px rgba(15, 23, 42, 0.06);
+  }
+
+  /* Professional User Message Bubble */
+  .bubble-gemini-user {
+    background-color: #f1f5f9;
+    color: #0f172a;
+    border: 1px solid rgba(203, 213, 225, 0.8);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    border-radius: 18px;
+    border-bottom-right-radius: 4px;
+    transition: background-color 0.15s ease;
+  }
+  .bubble-gemini-user:hover {
+    background-color: #e2e8f0;
+  }
+
+  /* Professional Assistant Card (Clean, Crisp, Elevated) */
+  .bubble-gemini-assistant {
+    background: #ffffff;
+    border: 1px solid rgba(226, 232, 240, 0.95);
+    box-shadow: 0 2px 8px -2px rgba(15, 23, 42, 0.05), 0 1px 2px rgba(0, 0, 0, 0.02);
+    border-radius: 18px;
+    border-top-left-radius: 4px;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .bubble-gemini-assistant:hover {
+    border-color: rgba(186, 230, 253, 0.9);
+    box-shadow: 0 4px 14px -2px rgba(2, 132, 199, 0.08);
+  }
+
+  /* Professional Pill Input Bar */
+  .gemini-input-pill {
+    background: #ffffff;
+    border: 1px solid rgba(203, 213, 225, 0.9);
+    box-shadow: 0 2px 8px -2px rgba(15, 23, 42, 0.06);
+    border-radius: 24px;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .gemini-input-pill:focus-within {
+    border-color: #0284c7;
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.18), 0 4px 12px -2px rgba(2, 132, 199, 0.1);
+  }
+
+  /* Subtle Professional Chips */
+  .gemini-chip {
+    background: #ffffff;
+    border: 1px solid rgba(226, 232, 240, 0.9);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+    transition: all 0.15s ease;
+  }
+  .gemini-chip:hover {
+    background: #f8fafc;
+    border-color: #38bdf8;
+    box-shadow: 0 2px 8px rgba(14, 165, 233, 0.1);
+    transform: translateY(-1px);
+  }
+
+  /* Subtle Brand Text Gradient */
+  .gemini-gradient-text {
+    background: linear-gradient(120deg, #002138 0%, #0369a1 50%, #4338ca 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* Custom Scrollbar for Sleek Navigation */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+}

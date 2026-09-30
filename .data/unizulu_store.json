@@ -1,0 +1,2665 @@
+{
+  "profiles": {
+    "luciabongekasthole06@gmail.com": {
+      "id": "u-1789828597423",
+      "email": "luciabongekasthole06@gmail.com",
+      "name": "amu gasa",
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "apsScore": 32,
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "updatedAt": "2026-09-20T23:00:00.743Z",
+      "createdAt": "2026-09-19T14:36:37.423Z",
+      "username": "luciabongekasthole06gmail.com",
+      "lastActive": "2026-09-20T23:00:00.744Z"
+    },
+    "student_thabo": {
+      "id": "u-1789850686237",
+      "email": "student_thabo@student.unizulu",
+      "name": "Thabo",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "updatedAt": "2026-09-19T20:44:46.237Z",
+      "createdAt": "2026-09-19T20:44:46.237Z"
+    },
+    "student_pk": {
+      "id": "u-1789859482844",
+      "email": "student_pk@student.unizulu",
+      "name": "pk",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "updatedAt": "2026-09-19T23:11:22.844Z",
+      "createdAt": "2026-09-19T23:11:22.844Z"
+    },
+    "am": {
+      "id": "u-1789859656705",
+      "email": "amukelanigasa1@gmail.com",
+      "username": "am",
+      "name": "amu",
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-19T23:14:16.705Z",
+      "updatedAt": "2026-09-19T23:25:54.331Z",
+      "lastActive": "2026-09-19T23:25:54.331Z"
+    },
+    "amukelanigasa1@gmail.com": {
+      "id": "u-1789859656705",
+      "email": "amukelanigasa1@gmail.com",
+      "username": "amukelani_gasa",
+      "name": "Amukelani Gasa",
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": true,
+        "matricResults": true,
+        "caoProofOfPayment": true,
+        "proofOfAddress": true,
+        "academicTranscript": true
+      },
+      "createdAt": "2026-09-19T23:14:16.705Z",
+      "updatedAt": "2026-09-21T13:02:14.212Z",
+      "lastActive": "2026-09-19T23:25:54.331Z",
+      "apsScore": 37
+    },
+    "u-1789859656705": {
+      "id": "u-1789859656705",
+      "email": "amukelanigasa1@gmail.com",
+      "username": "am",
+      "name": "amu",
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-19T23:14:16.705Z",
+      "updatedAt": "2026-09-19T23:25:54.331Z",
+      "lastActive": "2026-09-19T23:25:54.331Z"
+    },
+    "guest_1789860607391_3539": {
+      "id": "guest_1789860607391_3539",
+      "name": "Guest Student",
+      "username": "guest_3539",
+      "email": "guest_3539@guest.unizulu.ac.za",
+      "isGuest": true,
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-19T23:30:07.391Z",
+      "updatedAt": "2026-09-19T23:30:07.391Z",
+      "lastActive": "2026-09-19T23:30:07.391Z"
+    },
+    "guest_3539": {
+      "id": "guest_1789860607391_3539",
+      "name": "Guest Student",
+      "username": "guest_3539",
+      "email": "guest_3539@guest.unizulu.ac.za",
+      "isGuest": true,
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-19T23:30:07.391Z",
+      "updatedAt": "2026-09-19T23:30:07.391Z",
+      "lastActive": "2026-09-19T23:30:07.391Z"
+    },
+    "u-1789828597423": {
+      "id": "u-1789828597423",
+      "email": "luciabongekasthole06@gmail.com",
+      "name": "amu gasa",
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "apsScore": 32,
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "updatedAt": "2026-09-20T23:00:00.743Z",
+      "createdAt": "2026-09-19T14:36:37.423Z",
+      "username": "luciabongekasthole06gmail.com",
+      "lastActive": "2026-09-20T23:00:00.744Z"
+    },
+    "guest_8911": {
+      "id": "u-1789828597423",
+      "name": "amu gasa",
+      "username": "guest_8911",
+      "email": "luciabongekasthole06@gmail.com",
+      "isGuest": true,
+      "prospectiveFaculty": "Faculty of Commerce, Administration and Law (CAL)",
+      "targetProgram": "Bachelor of Laws (LLB)",
+      "apsScore": 32,
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-19T14:36:37.423Z",
+      "updatedAt": "2026-09-20T20:49:46.297Z",
+      "lastActive": "2026-09-20T20:49:46.297Z"
+    },
+    "luciabongekasthole06gmail.com": {
+      "id": "u-1789828597423",
+      "email": "luciabongekasthole06@gmail.com",
+      "name": "amu gasa",
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "apsScore": 32,
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "updatedAt": "2026-09-20T23:00:00.743Z",
+      "createdAt": "2026-09-19T14:36:37.423Z",
+      "username": "luciabongekasthole06gmail.com",
+      "lastActive": "2026-09-20T23:00:00.744Z"
+    },
+    "guest_1789937423495_5403": {
+      "id": "guest_1789937423495_5403",
+      "name": "Guest Student",
+      "username": "guest_5403",
+      "email": "guest_5403@guest.unizulu.ac.za",
+      "isGuest": true,
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-20T20:50:23.495Z",
+      "updatedAt": "2026-09-20T20:50:23.495Z",
+      "lastActive": "2026-09-20T20:50:23.495Z"
+    },
+    "guest_5403": {
+      "id": "guest_1789937423495_5403",
+      "name": "Guest Student",
+      "username": "guest_5403",
+      "email": "guest_5403@guest.unizulu.ac.za",
+      "isGuest": true,
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-20T20:50:23.495Z",
+      "updatedAt": "2026-09-20T20:50:23.495Z",
+      "lastActive": "2026-09-20T20:50:23.495Z"
+    },
+    "amukelani_gasa": {
+      "id": "u-1789859656705",
+      "email": "amukelanigasa1@gmail.com",
+      "username": "amukelani_gasa",
+      "name": "Amukelani Gasa",
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": true,
+        "matricResults": true,
+        "caoProofOfPayment": true,
+        "proofOfAddress": true,
+        "academicTranscript": true
+      },
+      "createdAt": "2026-09-19T23:14:16.705Z",
+      "updatedAt": "2026-09-21T13:02:14.212Z",
+      "lastActive": "2026-09-19T23:25:54.331Z",
+      "apsScore": 37
+    },
+    "guest_1790088508735_3931": {
+      "id": "guest_1790088508735_3931",
+      "name": "Guest Student",
+      "username": "guest_3931",
+      "email": "guest_3931@guest.unizulu.ac.za",
+      "isGuest": true,
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-22T14:48:28.735Z",
+      "updatedAt": "2026-09-22T14:48:28.735Z",
+      "lastActive": "2026-09-22T14:48:28.735Z"
+    },
+    "guest_3931": {
+      "id": "guest_1790088508735_3931",
+      "name": "Guest Student",
+      "username": "guest_3931",
+      "email": "guest_3931@guest.unizulu.ac.za",
+      "isGuest": true,
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-22T14:48:28.735Z",
+      "updatedAt": "2026-09-22T14:48:28.735Z",
+      "lastActive": "2026-09-22T14:48:28.735Z"
+    },
+    "guest_1790674763683_6124": {
+      "id": "guest_1790674763683_6124",
+      "name": "Guest Student",
+      "username": "guest_6124",
+      "email": "guest_6124@guest.unizulu.ac.za",
+      "isGuest": true,
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-29T09:39:23.683Z",
+      "updatedAt": "2026-09-29T09:39:23.683Z",
+      "lastActive": "2026-09-29T09:39:23.683Z"
+    },
+    "guest_6124": {
+      "id": "guest_1790674763683_6124",
+      "name": "Guest Student",
+      "username": "guest_6124",
+      "email": "guest_6124@guest.unizulu.ac.za",
+      "isGuest": true,
+      "prospectiveFaculty": "",
+      "targetProgram": "",
+      "documentsChecklist": {
+        "certifiedId": false,
+        "matricResults": false,
+        "caoProofOfPayment": false,
+        "proofOfAddress": false,
+        "academicTranscript": false
+      },
+      "createdAt": "2026-09-29T09:39:23.683Z",
+      "updatedAt": "2026-09-29T09:39:23.683Z",
+      "lastActive": "2026-09-29T09:39:23.683Z"
+    }
+  },
+  "feedbacks": [
+    {
+      "id": "fb-1789828594365",
+      "messageId": "test-1",
+      "query": "Requirements for LLB",
+      "responseSnippet": "Law requirements at UNIZULU",
+      "isHelpful": true,
+      "rating": 5,
+      "accuracyTag": "Accurate info",
+      "comment": "Very clear and accurate requirements",
+      "timestamp": "2026-09-19T14:36:34.365Z",
+      "userId": "anonymous"
+    },
+    {
+      "id": "fb-initial-1",
+      "messageId": "m-init-1",
+      "query": "What is the APS for LLB at UNIZULU?",
+      "responseSnippet": "The minimum APS requirement for LLB is 30 points with Level 5 in English...",
+      "isHelpful": true,
+      "rating": 5,
+      "accuracyTag": "Accurate & clear",
+      "comment": "Very exact requirements for Law!",
+      "timestamp": "2026-09-19T13:36:18.877Z"
+    },
+    {
+      "id": "fb-initial-2",
+      "messageId": "m-init-2",
+      "query": "How to submit documents through CAO?",
+      "responseSnippet": "Undergraduate admissions for UNIZULU go through the Central Applications Office (CAO)...",
+      "isHelpful": true,
+      "rating": 5,
+      "accuracyTag": "Step-by-step",
+      "comment": "Guided me through CAO code ZU-M.",
+      "timestamp": "2026-09-19T12:36:18.878Z"
+    }
+  ],
+  "queryLogs": [
+    {
+      "id": "q-1789828585094-qnux",
+      "query": "What are the admission requirements for Law LLB at UNIZULU?",
+      "timestamp": "2026-09-19T14:36:25.094Z"
+    },
+    {
+      "id": "q-1789828777267-1dwb",
+      "query": "How do I apply to UNIZULU via CAO?",
+      "timestamp": "2026-09-19T14:39:37.267Z"
+    },
+    {
+      "id": "q-1789828792414-nj7u",
+      "query": "What documents must I certify & submit?",
+      "timestamp": "2026-09-19T14:39:52.414Z"
+    },
+    {
+      "id": "q-1789828810543-hquf",
+      "query": "What is the minimum APS for Law (LLB)?",
+      "timestamp": "2026-09-19T14:40:10.543Z"
+    },
+    {
+      "id": "q-1789828834607-cxuy",
+      "query": "Requirements for BSc in Computer Science",
+      "timestamp": "2026-09-19T14:40:34.607Z"
+    },
+    {
+      "id": "q-1789829383308-0xhs",
+      "query": "What are the admission requirements for BCom Accounting at UNIZULU?",
+      "timestamp": "2026-09-19T14:49:43.308Z"
+    },
+    {
+      "id": "q-1789829395411-lbe8",
+      "query": "What are the admission requirements for BCom Accounting at UNIZULU?",
+      "timestamp": "2026-09-19T14:49:55.411Z"
+    },
+    {
+      "id": "q-1789829401900-nvfa",
+      "query": "What are the documents needed for matric?",
+      "timestamp": "2026-09-19T14:50:01.900Z"
+    },
+    {
+      "id": "q-1789830197073-1qci",
+      "query": "Ngifuna ukwazi ngamaphuzu e-APS e-UNIZULU",
+      "timestamp": "2026-09-19T15:03:17.073Z"
+    },
+    {
+      "id": "q-1789830202999-skbp",
+      "query": "Wat is die vereistes vir BCom?",
+      "timestamp": "2026-09-19T15:03:22.999Z"
+    },
+    {
+      "id": "q-1789830210235-idp3",
+      "query": "Wat is die vereistes vir BCom?",
+      "timestamp": "2026-09-19T15:03:30.235Z"
+    },
+    {
+      "id": "q-1789830282073-ivtz",
+      "query": "dumela",
+      "timestamp": "2026-09-19T15:04:42.073Z"
+    },
+    {
+      "id": "q-1789834286485-g03q",
+      "query": "acounting aps reqirements",
+      "timestamp": "2026-09-19T16:11:26.485Z"
+    },
+    {
+      "id": "q-1789834298109-d7rt",
+      "query": "acounting aps reqirements",
+      "timestamp": "2026-09-19T16:11:38.109Z"
+    },
+    {
+      "id": "q-1789834305466-yeqd",
+      "query": "laww",
+      "timestamp": "2026-09-19T16:11:45.466Z"
+    },
+    {
+      "id": "q-1789834375284-n376",
+      "query": "molo",
+      "timestamp": "2026-09-19T16:12:55.285Z"
+    },
+    {
+      "id": "q-1789834409314-8d8h",
+      "query": "How to apply via CAO",
+      "timestamp": "2026-09-19T16:13:29.314Z"
+    },
+    {
+      "id": "q-1789834438766-60ts",
+      "query": "why should i study at zululand",
+      "timestamp": "2026-09-19T16:13:58.766Z"
+    },
+    {
+      "id": "q-1789834485741-nmis",
+      "query": "best course for me if i love animals",
+      "timestamp": "2026-09-19T16:14:45.741Z"
+    },
+    {
+      "id": "q-1789834583436-2mnk",
+      "query": "What are the requirements for Law at UNIZULU?",
+      "timestamp": "2026-09-19T16:16:23.436Z"
+    },
+    {
+      "id": "q-1789834626103-2j47",
+      "query": "why should i study at zululand",
+      "timestamp": "2026-09-19T16:17:06.103Z"
+    },
+    {
+      "id": "q-1789835295650-kx1w",
+      "query": "i love computers what can i study",
+      "timestamp": "2026-09-19T16:28:15.650Z"
+    },
+    {
+      "id": "q-1789835340498-0cju",
+      "query": "whats ZU-M-BSC",
+      "timestamp": "2026-09-19T16:29:00.498Z"
+    },
+    {
+      "id": "q-1789835371421-3wdf",
+      "query": "whats yhe minnimum aps score for that",
+      "timestamp": "2026-09-19T16:29:31.421Z"
+    },
+    {
+      "id": "q-1789835405273-oz4c",
+      "query": "what is the best course to study",
+      "timestamp": "2026-09-19T16:30:05.273Z"
+    },
+    {
+      "id": "q-1789835497609-6ih1",
+      "query": "whats CAO",
+      "timestamp": "2026-09-19T16:31:37.609Z"
+    },
+    {
+      "id": "q-1789835623432-gj5x",
+      "query": "where is Denver located",
+      "timestamp": "2026-09-19T16:33:43.432Z"
+    },
+    {
+      "id": "q-1789835681957-g8w7",
+      "query": "what is the minimum requirements for master's degree",
+      "timestamp": "2026-09-19T16:34:41.957Z"
+    },
+    {
+      "id": "q-1789835741293-u0ng",
+      "query": "find me that person",
+      "timestamp": "2026-09-19T16:35:41.293Z"
+    },
+    {
+      "id": "q-1789835755064-t0dl",
+      "query": "law",
+      "timestamp": "2026-09-19T16:35:55.064Z"
+    },
+    {
+      "id": "q-1789835917577-anym",
+      "query": "which documents do I need to finish my application",
+      "timestamp": "2026-09-19T16:38:37.577Z"
+    },
+    {
+      "id": "q-1789836042984-vsjw",
+      "query": "thank you for your assistance I will get back to you when I come across challenges",
+      "timestamp": "2026-09-19T16:40:42.984Z"
+    },
+    {
+      "id": "q-1789836099498-j2eh",
+      "query": "do you know how to calculate average for law student",
+      "timestamp": "2026-09-19T16:41:39.498Z"
+    },
+    {
+      "id": "q-1789836306535-co8p",
+      "query": "What are the requirements for Law LLB?",
+      "timestamp": "2026-09-19T16:45:06.535Z"
+    },
+    {
+      "id": "q-1789836308787-5ium",
+      "query": "Who won the soccer match yesterday?",
+      "timestamp": "2026-09-19T16:45:08.787Z"
+    },
+    {
+      "id": "q-1789836310619-zbzq",
+      "query": "tell me a joke about cats",
+      "timestamp": "2026-09-19T16:45:10.619Z"
+    },
+    {
+      "id": "q-1789836314072-5wwa",
+      "query": "Sawubona, ngicela ukubuza ngamaphuzu e-APS",
+      "timestamp": "2026-09-19T16:45:14.072Z"
+    },
+    {
+      "id": "q-1789850649032-01et",
+      "query": "Sawubona, ngicela ukubuza ngamaphuzu e-APS okuya e-Law",
+      "timestamp": "2026-09-19T20:44:09.032Z"
+    },
+    {
+      "id": "q-1789850661616-65g6",
+      "query": "hey! how tough is it to get into computer science at unizulu?",
+      "timestamp": "2026-09-19T20:44:21.616Z"
+    },
+    {
+      "id": "q-1789850666710-32iv",
+      "query": "what is campus life like at unizulu?",
+      "timestamp": "2026-09-19T20:44:26.710Z"
+    },
+    {
+      "id": "q-1789850672275-43qy",
+      "query": "Goeie dag, wat is die toelatingsvereistes vir onderwys?",
+      "timestamp": "2026-09-19T20:44:32.275Z"
+    },
+    {
+      "id": "q-1789850679554-3zjg",
+      "query": "acounting aps reqs",
+      "timestamp": "2026-09-19T20:44:39.554Z"
+    },
+    {
+      "id": "q-1789859490686-mm99",
+      "query": "sawbona",
+      "timestamp": "2026-09-19T23:11:30.686Z"
+    },
+    {
+      "id": "q-1789859534035-al9j",
+      "query": "iUNIZULU injani",
+      "timestamp": "2026-09-19T23:12:14.035Z"
+    },
+    {
+      "id": "q-1789859667693-np3i",
+      "query": "sawbona",
+      "timestamp": "2026-09-19T23:14:27.693Z"
+    },
+    {
+      "id": "q-1789859840023-6eon",
+      "query": "why should i study",
+      "timestamp": "2026-09-19T23:17:20.023Z"
+    },
+    {
+      "id": "q-1789859852772-1b1k",
+      "query": "tech",
+      "timestamp": "2026-09-19T23:17:32.772Z"
+    },
+    {
+      "id": "q-1789859872076-zu8b",
+      "query": "i feel sad today",
+      "timestamp": "2026-09-19T23:17:52.076Z"
+    },
+    {
+      "id": "q-1789859895682-2l8k",
+      "query": "where is unizulu",
+      "timestamp": "2026-09-19T23:18:15.682Z"
+    },
+    {
+      "id": "q-1789859987979-lkuu",
+      "query": "best univesities in sa",
+      "timestamp": "2026-09-19T23:19:47.979Z"
+    },
+    {
+      "id": "q-1789860009647-kewq",
+      "query": "yes",
+      "timestamp": "2026-09-19T23:20:09.647Z"
+    },
+    {
+      "id": "q-1789860024128-8dw0",
+      "query": "i want to compare",
+      "timestamp": "2026-09-19T23:20:24.128Z"
+    },
+    {
+      "id": "q-1789860236933-tlzs",
+      "query": "what did we talk about before",
+      "timestamp": "2026-09-19T23:23:56.933Z"
+    },
+    {
+      "id": "q-1789860454880-33m7",
+      "query": "how many points are needed to study Education",
+      "timestamp": "2026-09-19T23:27:34.880Z"
+    },
+    {
+      "id": "q-1789860490872-kw2y",
+      "query": "i want to study teaching",
+      "timestamp": "2026-09-19T23:28:10.872Z"
+    },
+    {
+      "id": "q-1789860611204-5qsm",
+      "query": "tell me about computer science",
+      "timestamp": "2026-09-19T23:30:11.204Z"
+    },
+    {
+      "id": "q-1789860613598-bh79",
+      "query": "what campus is that at?",
+      "timestamp": "2026-09-19T23:30:13.598Z"
+    },
+    {
+      "id": "q-1789860616110-ng11",
+      "query": "how do I apply for that?",
+      "timestamp": "2026-09-19T23:30:16.110Z"
+    },
+    {
+      "id": "q-1789937816229-2hev",
+      "query": "tell me about law",
+      "timestamp": "2026-09-20T20:56:56.229Z"
+    },
+    {
+      "id": "q-1789937825854-wbuz",
+      "query": "im in grade 12 and got 65% in english and 55% in maths lit, what are my chances?",
+      "timestamp": "2026-09-20T20:57:05.854Z"
+    },
+    {
+      "id": "q-1789943035293-3j1o",
+      "query": "hello",
+      "timestamp": "2026-09-20T22:23:55.293Z"
+    },
+    {
+      "id": "q-1789943051644-1nmt",
+      "query": "What are the requirements for Law at UNIZULU?",
+      "timestamp": "2026-09-20T22:24:11.644Z"
+    },
+    {
+      "id": "q-1789943059152-hb4k",
+      "query": "What are the requirements for Law at UNIZULU?",
+      "timestamp": "2026-09-20T22:24:19.153Z"
+    },
+    {
+      "id": "q-1789943550227-t48v",
+      "query": "sawbona",
+      "timestamp": "2026-09-20T22:32:30.227Z"
+    },
+    {
+      "id": "q-1789943612814-9vpd",
+      "query": "unjani",
+      "timestamp": "2026-09-20T22:33:32.814Z"
+    },
+    {
+      "id": "q-1789943627656-kxjr",
+      "query": "dumela",
+      "timestamp": "2026-09-20T22:33:47.656Z"
+    },
+    {
+      "id": "q-1789943661498-t6wf",
+      "query": "Unizlu ke eng",
+      "timestamp": "2026-09-20T22:34:21.498Z"
+    },
+    {
+      "id": "q-1789943707944-l1m6",
+      "query": "ke batla ho ba lawyer",
+      "timestamp": "2026-09-20T22:35:07.944Z"
+    },
+    {
+      "id": "q-1789944098749-tq7i",
+      "query": "SAWBONA",
+      "timestamp": "2026-09-20T22:41:38.749Z"
+    },
+    {
+      "id": "q-1789944116676-ck3f",
+      "query": "SAWBONA",
+      "timestamp": "2026-09-20T22:41:56.676Z"
+    },
+    {
+      "id": "q-1789944129378-m8zr",
+      "query": "UYINI",
+      "timestamp": "2026-09-20T22:42:09.378Z"
+    },
+    {
+      "id": "q-1789944153642-ewpn",
+      "query": "UTHANDA INI",
+      "timestamp": "2026-09-20T22:42:33.642Z"
+    },
+    {
+      "id": "q-1789944191480-oyi6",
+      "query": "mina ngithanda imoto",
+      "timestamp": "2026-09-20T22:43:11.480Z"
+    },
+    {
+      "id": "q-1789944236996-6au7",
+      "query": "ke rata batho",
+      "timestamp": "2026-09-20T22:43:56.996Z"
+    },
+    {
+      "id": "q-1789944326144-49lr",
+      "query": "My calculated Admission Point Score (APS) is 38 points based on my NSC Matric subjects (English (Home or First Additional): Level 6, Mathematics / Pure Maths: Level 4, Physical Sciences / Accounting: Level 7, Life Sciences / Business Studies: Level 7, Geography / History / Economics: Level 7, isiZulu / 2nd Language / Elective: Level 7). With Pure Mathematics, which UNIZULU faculties and degree programs can I qualify for, and what are their CAO codes?",
+      "timestamp": "2026-09-20T22:45:26.144Z"
+    },
+    {
+      "id": "q-1789944427765-a3xg",
+      "query": "i love my mom",
+      "timestamp": "2026-09-20T22:47:07.765Z"
+    },
+    {
+      "id": "q-1789944453626-2o5d",
+      "query": "am i the best",
+      "timestamp": "2026-09-20T22:47:33.626Z"
+    },
+    {
+      "id": "q-1789944477550-r2aw",
+      "query": "am i the best",
+      "timestamp": "2026-09-20T22:47:57.550Z"
+    },
+    {
+      "id": "q-1789944694372-cedj",
+      "query": "ntwana yam",
+      "timestamp": "2026-09-20T22:51:34.372Z"
+    },
+    {
+      "id": "q-1789944713673-af8g",
+      "query": "umoja",
+      "timestamp": "2026-09-20T22:51:53.673Z"
+    },
+    {
+      "id": "q-1789944748563-7eh1",
+      "query": "fuck",
+      "timestamp": "2026-09-20T22:52:28.563Z"
+    },
+    {
+      "id": "q-1789944779566-skiy",
+      "query": "hello",
+      "timestamp": "2026-09-20T22:52:59.566Z"
+    },
+    {
+      "id": "q-1789944791191-e42t",
+      "query": "fuck you",
+      "timestamp": "2026-09-20T22:53:11.191Z"
+    },
+    {
+      "id": "q-1789944818791-o33q",
+      "query": "are you real",
+      "timestamp": "2026-09-20T22:53:38.791Z"
+    },
+    {
+      "id": "q-1789944853098-o8aj",
+      "query": "i think i wont qualify for varrsity",
+      "timestamp": "2026-09-20T22:54:13.098Z"
+    },
+    {
+      "id": "q-1789944869374-c8h5",
+      "query": "maths lit",
+      "timestamp": "2026-09-20T22:54:29.374Z"
+    },
+    {
+      "id": "q-1789944896256-2ph0",
+      "query": "can i enter a collage",
+      "timestamp": "2026-09-20T22:54:56.256Z"
+    },
+    {
+      "id": "q-1789944922165-f7ev",
+      "query": "waht is bsc",
+      "timestamp": "2026-09-20T22:55:22.165Z"
+    },
+    {
+      "id": "q-1789944955859-cit4",
+      "query": "i was checking the acronym",
+      "timestamp": "2026-09-20T22:55:55.859Z"
+    },
+    {
+      "id": "q-1789944970909-vs9e",
+      "query": "is cao real",
+      "timestamp": "2026-09-20T22:56:10.909Z"
+    },
+    {
+      "id": "q-1789944984422-bx74",
+      "query": "wont i get scammed",
+      "timestamp": "2026-09-20T22:56:24.422Z"
+    },
+    {
+      "id": "q-1789945012740-8ybh",
+      "query": "i havent applied yet",
+      "timestamp": "2026-09-20T22:56:52.740Z"
+    },
+    {
+      "id": "q-1789945087388-w6pp",
+      "query": "best university in the world",
+      "timestamp": "2026-09-20T22:58:07.388Z"
+    },
+    {
+      "id": "q-1789945113459-cei3",
+      "query": "who made you",
+      "timestamp": "2026-09-20T22:58:33.459Z"
+    },
+    {
+      "id": "q-1789945338066-s9ld",
+      "query": "Minimum aps for Bachelor of commerce in University of Zululand",
+      "timestamp": "2026-09-20T23:02:18.066Z"
+    },
+    {
+      "id": "q-1789945388177-ipjv",
+      "query": "What is the closing date for UNIZULU 2026 applications?",
+      "timestamp": "2026-09-20T23:03:08.177Z"
+    },
+    {
+      "id": "q-1789947021868-08tt",
+      "query": "hello",
+      "timestamp": "2026-09-20T23:30:21.869Z"
+    },
+    {
+      "id": "q-1789947033882-yjdz",
+      "query": "what are you",
+      "timestamp": "2026-09-20T23:30:33.883Z"
+    },
+    {
+      "id": "q-1789947386303-iz41",
+      "query": "hello",
+      "timestamp": "2026-09-20T23:36:26.303Z"
+    },
+    {
+      "id": "q-1789947397304-x18n",
+      "query": "what are you",
+      "timestamp": "2026-09-20T23:36:37.304Z"
+    },
+    {
+      "id": "q-1789947413893-lsjo",
+      "query": "can you help me",
+      "timestamp": "2026-09-20T23:36:53.893Z"
+    },
+    {
+      "id": "q-1789947424952-il50",
+      "query": "bsc",
+      "timestamp": "2026-09-20T23:37:04.952Z"
+    },
+    {
+      "id": "q-1789947438527-uaz6",
+      "query": "hello",
+      "timestamp": "2026-09-20T23:37:18.527Z"
+    },
+    {
+      "id": "q-1789947452517-ilcr",
+      "query": "anything",
+      "timestamp": "2026-09-20T23:37:32.517Z"
+    },
+    {
+      "id": "q-1789947664280-kdnz",
+      "query": "Unizlu ke eng",
+      "timestamp": "2026-09-20T23:41:04.280Z"
+    },
+    {
+      "id": "q-1789947936377-zotk",
+      "query": "Unizlu ke eng",
+      "timestamp": "2026-09-20T23:45:36.377Z"
+    },
+    {
+      "id": "q-1789947938884-jagq",
+      "query": "ke batla ho ba lawyer",
+      "timestamp": "2026-09-20T23:45:38.884Z"
+    },
+    {
+      "id": "q-1789947942148-7bcl",
+      "query": "What are the requirements for Law?",
+      "timestamp": "2026-09-20T23:45:42.148Z"
+    },
+    {
+      "id": "q-1789947944434-mz0w",
+      "query": "Sawubona ngifuna ukwazi ngeNursing",
+      "timestamp": "2026-09-20T23:45:44.434Z"
+    },
+    {
+      "id": "q-1789947994850-qvni",
+      "query": "hi",
+      "timestamp": "2026-09-20T23:46:34.850Z"
+    },
+    {
+      "id": "q-1789948005620-p5c8",
+      "query": "what are yoi",
+      "timestamp": "2026-09-20T23:46:45.620Z"
+    },
+    {
+      "id": "q-1789948044059-3qgc",
+      "query": "Hello, what are the requirements for LLB?",
+      "timestamp": "2026-09-20T23:47:24.059Z"
+    },
+    {
+      "id": "q-1789948051762-l44z",
+      "query": "What are the requirements for LLB?",
+      "timestamp": "2026-09-20T23:47:31.762Z"
+    },
+    {
+      "id": "q-1789984342206-4rig",
+      "query": "who created you?",
+      "timestamp": "2026-09-21T09:52:22.206Z"
+    },
+    {
+      "id": "q-1789984350792-5be5",
+      "query": "who created you?",
+      "timestamp": "2026-09-21T09:52:30.792Z"
+    },
+    {
+      "id": "q-1789984357331-cldn",
+      "query": "Hello! I am so excited to come study at UNIZULU! Can you tell me what campus life is like?",
+      "timestamp": "2026-09-21T09:52:37.332Z"
+    },
+    {
+      "id": "q-1789994552296-s012",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Commerce in Business Management / Economics in the Faculty of Commerce, Administration and Law (CAL) at UNIZULU?",
+      "timestamp": "2026-09-21T12:42:32.296Z"
+    },
+    {
+      "id": "q-1789994856380-mk6c",
+      "query": "which documents are required for application",
+      "timestamp": "2026-09-21T12:47:36.380Z"
+    },
+    {
+      "id": "q-1789994940629-1m0f",
+      "query": "how to apply",
+      "timestamp": "2026-09-21T12:49:00.629Z"
+    },
+    {
+      "id": "q-1789995132424-aq1e",
+      "query": "which programs are offered by the department of Mathematics",
+      "timestamp": "2026-09-21T12:52:12.425Z"
+    },
+    {
+      "id": "q-1789995584022-ao4z",
+      "query": "My calculated Admission Point Score (APS) is 30 points based on my NSC Matric subjects (English (Home or First Additional): Level 5, Mathematics / Pure Maths: Level 4, Physical Sciences / Accounting: Level 4, Life Sciences / Business Studies: Level 5, Geography / History / Economics: Level 5, isiZulu / 2nd Language / Elective: Level 7). With Pure Mathematics, which UNIZULU faculties and degree programs can I qualify for, and what are their CAO codes?",
+      "timestamp": "2026-09-21T12:59:44.022Z"
+    },
+    {
+      "id": "q-1789995734232-rqau",
+      "query": "My calculated Admission Point Score (APS) is 37 points based on my NSC Matric subjects (English (Home or First Additional): Level 6, Mathematics / Pure Maths: Level 7, Physical Sciences / Accounting: Level 6, Life Sciences / Business Studies: Level 5, Geography / History / Economics: Level 6, isiZulu / 2nd Language / Elective: Level 7). With Pure Mathematics, which UNIZULU faculties and degree programs can I qualify for, and what are their CAO codes?",
+      "timestamp": "2026-09-21T13:02:14.232Z"
+    },
+    {
+      "id": "q-1789995771557-85co",
+      "query": "I HAVE 86% IN MATHEMATICS",
+      "timestamp": "2026-09-21T13:02:51.557Z"
+    },
+    {
+      "id": "q-1789998898188-kzkr",
+      "query": "SAWBONA",
+      "timestamp": "2026-09-21T13:54:58.188Z"
+    },
+    {
+      "id": "q-1789998943546-haju",
+      "query": "MOLO",
+      "timestamp": "2026-09-21T13:55:43.546Z"
+    },
+    {
+      "id": "q-1789998957895-xsjo",
+      "query": "MOLO",
+      "timestamp": "2026-09-21T13:55:57.895Z"
+    },
+    {
+      "id": "q-1789999438137-g4j9",
+      "query": "molo",
+      "timestamp": "2026-09-21T14:03:58.137Z"
+    },
+    {
+      "id": "q-1789999458128-3d17",
+      "query": "dumela",
+      "timestamp": "2026-09-21T14:04:18.128Z"
+    },
+    {
+      "id": "q-1789999523724-zhjg",
+      "query": "sawubona",
+      "timestamp": "2026-09-21T14:05:23.724Z"
+    },
+    {
+      "id": "q-1789999554891-cojq",
+      "query": "sawubona",
+      "timestamp": "2026-09-21T14:05:54.891Z"
+    },
+    {
+      "id": "q-1789999702520-89to",
+      "query": "My calculated Admission Point Score (APS) is 33 points based on my NSC Matric subjects (English (Home or First Additional): Level 5, Mathematics / Pure Maths: Level 3, Physical Sciences / Accounting: Level 6, Life Sciences / Business Studies: Level 6, agricultural science : Level 6, isiZulu / 2nd Language / Elective: Level 7). With Pure Mathematics, which UNIZULU faculties and degree programs can I qualify for, and what are their CAO codes?",
+      "timestamp": "2026-09-21T14:08:22.520Z"
+    },
+    {
+      "id": "q-1789999754220-ek2x",
+      "query": "ngithanda computer science",
+      "timestamp": "2026-09-21T14:09:14.220Z"
+    },
+    {
+      "id": "q-1789999853864-wx1y",
+      "query": "chemical engineering",
+      "timestamp": "2026-09-21T14:10:53.865Z"
+    },
+    {
+      "id": "q-1789999918106-bpyy",
+      "query": "engineering",
+      "timestamp": "2026-09-21T14:11:58.106Z"
+    },
+    {
+      "id": "q-1789999985437-ybjq",
+      "query": "what can i study with 31 points and my interest is education",
+      "timestamp": "2026-09-21T14:13:05.437Z"
+    },
+    {
+      "id": "q-1790000582745-ss35",
+      "query": "yebo",
+      "timestamp": "2026-09-21T14:23:02.745Z"
+    },
+    {
+      "id": "q-1790000597537-7n3d",
+      "query": "wubani diddy",
+      "timestamp": "2026-09-21T14:23:17.537Z"
+    },
+    {
+      "id": "q-1790000624806-7a85",
+      "query": "uyamazi u Rihana",
+      "timestamp": "2026-09-21T14:23:44.806Z"
+    },
+    {
+      "id": "q-1790000654825-l4ah",
+      "query": "best res",
+      "timestamp": "2026-09-21T14:24:14.825Z"
+    },
+    {
+      "id": "q-1790000678324-xt8w",
+      "query": "best res",
+      "timestamp": "2026-09-21T14:24:38.324Z"
+    },
+    {
+      "id": "q-1790000702108-0r1c",
+      "query": "best residents",
+      "timestamp": "2026-09-21T14:25:02.108Z"
+    },
+    {
+      "id": "q-1790000763472-zq0h",
+      "query": "life is difficult",
+      "timestamp": "2026-09-21T14:26:03.472Z"
+    },
+    {
+      "id": "q-1790000799554-kbnf",
+      "query": "where is unizulu",
+      "timestamp": "2026-09-21T14:26:39.554Z"
+    },
+    {
+      "id": "q-1790000852093-r12g",
+      "query": "what is dp",
+      "timestamp": "2026-09-21T14:27:32.093Z"
+    },
+    {
+      "id": "q-1790000902355-p16o",
+      "query": "best student",
+      "timestamp": "2026-09-21T14:28:22.355Z"
+    },
+    {
+      "id": "q-1790000926909-ewlk",
+      "query": "who is unizulus top student",
+      "timestamp": "2026-09-21T14:28:46.909Z"
+    },
+    {
+      "id": "q-1790000953570-aios",
+      "query": "competetions in unizulu",
+      "timestamp": "2026-09-21T14:29:13.570Z"
+    },
+    {
+      "id": "q-1790000996486-xqzd",
+      "query": "who is the school president",
+      "timestamp": "2026-09-21T14:29:56.486Z"
+    },
+    {
+      "id": "q-1790001014280-h3hl",
+      "query": "school president",
+      "timestamp": "2026-09-21T14:30:14.280Z"
+    },
+    {
+      "id": "q-1790001021000-e5jr",
+      "query": "what",
+      "timestamp": "2026-09-21T14:30:21.000Z"
+    },
+    {
+      "id": "q-1790001057993-gy2u",
+      "query": "you dont know who the school president is",
+      "timestamp": "2026-09-21T14:30:57.993Z"
+    },
+    {
+      "id": "q-1790001275043-oqsw",
+      "query": "who is the school president",
+      "timestamp": "2026-09-21T14:34:35.043Z"
+    },
+    {
+      "id": "q-1790001426741-1g0z",
+      "query": "who is the school president",
+      "timestamp": "2026-09-21T14:37:06.741Z"
+    },
+    {
+      "id": "q-1790001429658-0rpe",
+      "query": "school president",
+      "timestamp": "2026-09-21T14:37:09.658Z"
+    },
+    {
+      "id": "q-1790001432141-bcz8",
+      "query": "what",
+      "timestamp": "2026-09-21T14:37:12.141Z"
+    },
+    {
+      "id": "q-1790001434151-i3vv",
+      "query": "you dont know who the school president is",
+      "timestamp": "2026-09-21T14:37:14.151Z"
+    },
+    {
+      "id": "q-1790001436135-tn2o",
+      "query": "who is the school president (in isiZulu: ubani umongameli wenyuvesi)",
+      "timestamp": "2026-09-21T14:37:16.135Z"
+    },
+    {
+      "id": "q-1790001438821-lsfl",
+      "query": "ubani umongameli wenyuvesi",
+      "timestamp": "2026-09-21T14:37:18.821Z"
+    },
+    {
+      "id": "q-1790001468690-1eky",
+      "query": "who is the school president",
+      "timestamp": "2026-09-21T14:37:48.690Z"
+    },
+    {
+      "id": "q-1790001475316-0elj",
+      "query": "school president",
+      "timestamp": "2026-09-21T14:37:55.316Z"
+    },
+    {
+      "id": "q-1790001478781-9ljm",
+      "query": "you dont know who the school president is",
+      "timestamp": "2026-09-21T14:37:58.781Z"
+    },
+    {
+      "id": "q-1790001481810-152c",
+      "query": "who is the school president (in isiZulu: ubani umongameli wenyuvesi)",
+      "timestamp": "2026-09-21T14:38:01.810Z"
+    },
+    {
+      "id": "q-1790001485459-dnxr",
+      "query": "ubani umongameli wenyuvesi",
+      "timestamp": "2026-09-21T14:38:05.460Z"
+    },
+    {
+      "id": "q-1790001489183-hpg0",
+      "query": "what are the swimming pool hours",
+      "timestamp": "2026-09-21T14:38:09.183Z"
+    },
+    {
+      "id": "q-1790087589421-jbyg",
+      "query": "hello",
+      "timestamp": "2026-09-22T14:33:09.421Z"
+    },
+    {
+      "id": "q-1790088187893-iuy1",
+      "query": "hello",
+      "timestamp": "2026-09-22T14:43:07.893Z"
+    },
+    {
+      "id": "q-1790088203729-tpil",
+      "query": "im fine",
+      "timestamp": "2026-09-22T14:43:23.729Z"
+    },
+    {
+      "id": "q-1790088228085-m937",
+      "query": "i said im fine",
+      "timestamp": "2026-09-22T14:43:48.085Z"
+    },
+    {
+      "id": "q-1790088431065-5fdm",
+      "query": "hi",
+      "timestamp": "2026-09-22T14:47:11.065Z"
+    },
+    {
+      "id": "q-1790088446104-olyo",
+      "query": "im fine",
+      "timestamp": "2026-09-22T14:47:26.104Z"
+    },
+    {
+      "id": "q-1790088466412-m2td",
+      "query": "what are you",
+      "timestamp": "2026-09-22T14:47:46.412Z"
+    },
+    {
+      "id": "q-1790088477303-n1xi",
+      "query": "im fine and you",
+      "timestamp": "2026-09-22T14:47:57.303Z"
+    },
+    {
+      "id": "q-1790088522156-96nk",
+      "query": "hello",
+      "timestamp": "2026-09-22T14:48:42.156Z"
+    },
+    {
+      "id": "q-1790089434463-xmp6",
+      "query": "Hey! How are you doing today?",
+      "timestamp": "2026-09-22T15:03:54.463Z"
+    },
+    {
+      "id": "q-1790091612382-wbm4",
+      "query": "Hey, how are you doing today? I am a bit stressed about exams",
+      "timestamp": "2026-09-22T15:40:12.382Z"
+    },
+    {
+      "id": "q-1790091622430-tpfy",
+      "query": "I feel really nervous about whether I will be accepted",
+      "timestamp": "2026-09-22T15:40:22.430Z"
+    },
+    {
+      "id": "q-1790091711716-lxqa",
+      "query": "I feel really nervous about whether I will be accepted",
+      "timestamp": "2026-09-22T15:41:51.716Z"
+    },
+    {
+      "id": "q-1790091721150-tqwy",
+      "query": "haha that is funny! Tell me a joke!",
+      "timestamp": "2026-09-22T15:42:01.150Z"
+    },
+    {
+      "id": "q-1790091759930-7hgi",
+      "query": "hello",
+      "timestamp": "2026-09-22T15:42:39.930Z"
+    },
+    {
+      "id": "q-1790091804946-imwo",
+      "query": "What are the entry requirements for Bachelor of Education at UNIZULU?",
+      "timestamp": "2026-09-22T15:43:24.946Z"
+    },
+    {
+      "id": "q-1790091811922-siwd",
+      "query": "Hi there! Can you recommend some tips for a first-year student?",
+      "timestamp": "2026-09-22T15:43:31.922Z"
+    },
+    {
+      "id": "q-1790270554335-c2t4",
+      "query": "what are you",
+      "timestamp": "2026-09-24T17:22:34.335Z"
+    },
+    {
+      "id": "q-1790270656245-fyjo",
+      "query": "Hello how are you doing today?",
+      "timestamp": "2026-09-24T17:24:16.245Z"
+    },
+    {
+      "id": "q-1790270870190-1hgg",
+      "query": "Hi! How is your day going?",
+      "timestamp": "2026-09-24T17:27:50.190Z"
+    },
+    {
+      "id": "q-1790270891960-dk15",
+      "query": "Hello! How is your day?",
+      "timestamp": "2026-09-24T17:28:11.960Z"
+    },
+    {
+      "id": "q-1790270916272-lq36",
+      "query": "I am feeling really stressed about my matric marks, I do not know what to do",
+      "timestamp": "2026-09-24T17:28:36.272Z"
+    },
+    {
+      "id": "q-1790270944978-p0qd",
+      "query": "Good morning, can you tell me what the campus life is like at UNIZULU?",
+      "timestamp": "2026-09-24T17:29:04.978Z"
+    },
+    {
+      "id": "q-1790270953739-qm6a",
+      "query": "Sawubona, ngicela ungichazele ngempilo yasekhampasi e-UNIZULU",
+      "timestamp": "2026-09-24T17:29:13.739Z"
+    },
+    {
+      "id": "q-1790271009322-30m6",
+      "query": "what are you",
+      "timestamp": "2026-09-24T17:30:09.322Z"
+    },
+    {
+      "id": "q-1790271320837-pchs",
+      "query": "what is it?",
+      "timestamp": "2026-09-24T17:35:20.837Z"
+    },
+    {
+      "id": "q-1790271330292-3qki",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T17:35:30.292Z"
+    },
+    {
+      "id": "q-1790271339341-6ch0",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T17:35:39.342Z"
+    },
+    {
+      "id": "q-1790271560423-gq2q",
+      "query": "what is it?",
+      "timestamp": "2026-09-24T17:39:20.423Z"
+    },
+    {
+      "id": "q-1790271565016-peyg",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T17:39:25.016Z"
+    },
+    {
+      "id": "q-1790271572562-cuy9",
+      "query": "what is unizulu?",
+      "timestamp": "2026-09-24T17:39:32.562Z"
+    },
+    {
+      "id": "q-1790271576464-l1kt",
+      "query": "yini wena?",
+      "timestamp": "2026-09-24T17:39:36.464Z"
+    },
+    {
+      "id": "q-1790271581579-d0mb",
+      "query": "wat is dit?",
+      "timestamp": "2026-09-24T17:39:41.579Z"
+    },
+    {
+      "id": "q-1790271587088-9v06",
+      "query": "hi, how are you?",
+      "timestamp": "2026-09-24T17:39:47.088Z"
+    },
+    {
+      "id": "q-1790271593465-7ve7",
+      "query": "what is it?",
+      "timestamp": "2026-09-24T17:39:53.465Z"
+    },
+    {
+      "id": "q-1790271621964-aifw",
+      "query": "what is it?",
+      "timestamp": "2026-09-24T17:40:21.964Z"
+    },
+    {
+      "id": "q-1790271628108-byj5",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T17:40:28.108Z"
+    },
+    {
+      "id": "q-1790271632970-d6av",
+      "query": "what is unizulu?",
+      "timestamp": "2026-09-24T17:40:32.970Z"
+    },
+    {
+      "id": "q-1790271638684-n8s6",
+      "query": "yini wena?",
+      "timestamp": "2026-09-24T17:40:38.684Z"
+    },
+    {
+      "id": "q-1790271643935-7f3a",
+      "query": "wat is dit?",
+      "timestamp": "2026-09-24T17:40:43.935Z"
+    },
+    {
+      "id": "q-1790271652468-fkfb",
+      "query": "wat is jy?",
+      "timestamp": "2026-09-24T17:40:52.468Z"
+    },
+    {
+      "id": "q-1790271664127-lpw5",
+      "query": "hi, how are you?",
+      "timestamp": "2026-09-24T17:41:04.127Z"
+    },
+    {
+      "id": "q-1790271666344-iqp6",
+      "query": "What are the requirements for Bachelor of Laws?",
+      "timestamp": "2026-09-24T17:41:06.344Z"
+    },
+    {
+      "id": "q-1790271743313-exaj",
+      "query": "what is it?",
+      "timestamp": "2026-09-24T17:42:23.313Z"
+    },
+    {
+      "id": "q-1790271746154-yd9u",
+      "query": "what are the requirements for llb?",
+      "timestamp": "2026-09-24T17:42:26.154Z"
+    },
+    {
+      "id": "q-1790271843520-rk3c",
+      "query": "HEDLLO",
+      "timestamp": "2026-09-24T17:44:03.520Z"
+    },
+    {
+      "id": "q-1790271856974-q3ff",
+      "query": "WHAT ARE YOU",
+      "timestamp": "2026-09-24T17:44:16.974Z"
+    },
+    {
+      "id": "q-1790271886562-kpib",
+      "query": "best schools",
+      "timestamp": "2026-09-24T17:44:46.563Z"
+    },
+    {
+      "id": "q-1790272294306-v8uf",
+      "query": "What is photosynthesis?",
+      "timestamp": "2026-09-24T17:51:34.306Z"
+    },
+    {
+      "id": "q-1790272314357-klu3",
+      "query": "How do I study for my matric exams?",
+      "timestamp": "2026-09-24T17:51:54.357Z"
+    },
+    {
+      "id": "q-1790272318518-5f7b",
+      "query": "What is photosynthesis?",
+      "timestamp": "2026-09-24T17:51:58.518Z"
+    },
+    {
+      "id": "q-1790272323750-xnhg",
+      "query": "Can you calculate 25 * 14?",
+      "timestamp": "2026-09-24T17:52:03.750Z"
+    },
+    {
+      "id": "q-1790272326556-oyqt",
+      "query": "What is Python?",
+      "timestamp": "2026-09-24T17:52:06.556Z"
+    },
+    {
+      "id": "q-1790272329919-u1no",
+      "query": "Can you calculate 25 * 14?",
+      "timestamp": "2026-09-24T17:52:09.919Z"
+    },
+    {
+      "id": "q-1790272333441-n5os",
+      "query": "How do I study for my matric exams?",
+      "timestamp": "2026-09-24T17:52:13.441Z"
+    },
+    {
+      "id": "q-1790272335721-w6kt",
+      "query": "Why is the sky blue?",
+      "timestamp": "2026-09-24T17:52:15.721Z"
+    },
+    {
+      "id": "q-1790272337852-2143",
+      "query": "Tell me a joke",
+      "timestamp": "2026-09-24T17:52:17.852Z"
+    },
+    {
+      "id": "q-1790272338971-kt5o",
+      "query": "What are the requirements for Bachelor of Laws at UNIZULU?",
+      "timestamp": "2026-09-24T17:52:18.971Z"
+    },
+    {
+      "id": "q-1790272339453-pvrn",
+      "query": "Tell me a joke",
+      "timestamp": "2026-09-24T17:52:19.453Z"
+    },
+    {
+      "id": "q-1790272349361-z9oq",
+      "query": "Chaza ukuthi yini i-DNA?",
+      "timestamp": "2026-09-24T17:52:29.361Z"
+    },
+    {
+      "id": "q-1790272395458-uqkn",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T17:53:15.458Z"
+    },
+    {
+      "id": "q-1790272397866-qr9n",
+      "query": "what is it?",
+      "timestamp": "2026-09-24T17:53:17.866Z"
+    },
+    {
+      "id": "q-1790272412832-9vej",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T17:53:32.832Z"
+    },
+    {
+      "id": "q-1790272414839-gb7h",
+      "query": "who are you?",
+      "timestamp": "2026-09-24T17:53:34.839Z"
+    },
+    {
+      "id": "q-1790272417407-69z0",
+      "query": "what is UNIZULU?",
+      "timestamp": "2026-09-24T17:53:37.407Z"
+    },
+    {
+      "id": "q-1790272421440-5ozg",
+      "query": "can you explain quantum computing?",
+      "timestamp": "2026-09-24T17:53:41.440Z"
+    },
+    {
+      "id": "q-1790272424576-c9nc",
+      "query": "how do I apply for computer science?",
+      "timestamp": "2026-09-24T17:53:44.576Z"
+    },
+    {
+      "id": "q-1790272428969-svgc",
+      "query": "how do I apply for computer science?",
+      "timestamp": "2026-09-24T17:53:48.969Z"
+    },
+    {
+      "id": "q-1790273467578-j3kq",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T18:11:07.578Z"
+    },
+    {
+      "id": "q-1790273686027-wljf",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T18:14:46.027Z"
+    },
+    {
+      "id": "q-1790273696942-cyce",
+      "query": "What are the requirements for Bachelor of Laws?",
+      "timestamp": "2026-09-24T18:14:56.942Z"
+    },
+    {
+      "id": "q-1790273703251-d28n",
+      "query": "best schools",
+      "timestamp": "2026-09-24T18:15:03.251Z"
+    },
+    {
+      "id": "q-1790273719992-4nm9",
+      "query": "quantum computing",
+      "timestamp": "2026-09-24T18:15:19.992Z"
+    },
+    {
+      "id": "q-1790273723842-yce1",
+      "query": "how do I apply?",
+      "timestamp": "2026-09-24T18:15:23.843Z"
+    },
+    {
+      "id": "q-1790273735193-el8t",
+      "query": "Sawubona, ngicela ungichazele ngomthetho e-UNIZULU",
+      "timestamp": "2026-09-24T18:15:35.193Z"
+    },
+    {
+      "id": "q-1790273789646-0drt",
+      "query": "what are you?",
+      "timestamp": "2026-09-24T18:16:29.646Z"
+    },
+    {
+      "id": "q-1790273798727-4ivu",
+      "query": "what is it?",
+      "timestamp": "2026-09-24T18:16:38.727Z"
+    },
+    {
+      "id": "q-1790273805772-0jt5",
+      "query": "what is unizulu?",
+      "timestamp": "2026-09-24T18:16:45.772Z"
+    },
+    {
+      "id": "q-1790273808057-a54q",
+      "query": "What are the requirements for LLB?",
+      "timestamp": "2026-09-24T18:16:48.057Z"
+    },
+    {
+      "id": "q-1790273809808-szxc",
+      "query": "quantum computing",
+      "timestamp": "2026-09-24T18:16:49.808Z"
+    },
+    {
+      "id": "q-1790273812734-477k",
+      "query": "best schools",
+      "timestamp": "2026-09-24T18:16:52.734Z"
+    },
+    {
+      "id": "q-1790273816473-xghf",
+      "query": "how to register",
+      "timestamp": "2026-09-24T18:16:56.473Z"
+    },
+    {
+      "id": "q-1790675266524-fduq",
+      "query": "Tell me about degrees offered in the Faculty of Science, Agriculture and Engineering",
+      "timestamp": "2026-09-29T09:47:46.524Z"
+    },
+    {
+      "id": "q-1790675378594-fudm",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Commerce: Business Management and Economics in the Faculty of Commerce, Administration and Law (CAL) at UNIZULU?",
+      "timestamp": "2026-09-29T09:49:38.594Z"
+    },
+    {
+      "id": "q-1790675865268-nq7f",
+      "query": "What new courses were added?",
+      "timestamp": "2026-09-29T09:57:45.268Z"
+    },
+    {
+      "id": "q-1790675884449-gorf",
+      "query": "What new courses were added?",
+      "timestamp": "2026-09-29T09:58:04.449Z"
+    },
+    {
+      "id": "q-1790675893429-tuyq",
+      "query": "Tell me about course 2ACC101",
+      "timestamp": "2026-09-29T09:58:13.429Z"
+    },
+    {
+      "id": "q-1790675897206-uz06",
+      "query": "Tell me about Constitutional Law",
+      "timestamp": "2026-09-29T09:58:17.206Z"
+    },
+    {
+      "id": "q-1790675928180-az6n",
+      "query": "Tell me about Constitutional Law",
+      "timestamp": "2026-09-29T09:58:48.180Z"
+    },
+    {
+      "id": "q-1790675928519-qpbl",
+      "query": "Can you recommend degrees and diplomas at UNIZULU based on my subject performance and interests?",
+      "timestamp": "2026-09-29T09:58:48.519Z"
+    },
+    {
+      "id": "q-1790675957945-l4h1",
+      "query": "3 year degree",
+      "timestamp": "2026-09-29T09:59:17.945Z"
+    },
+    {
+      "id": "q-1790676227625-bbqi",
+      "query": "What are the admission requirements for Bachelor of Education (BEd) at UNIZULU?",
+      "timestamp": "2026-09-29T10:03:47.625Z"
+    },
+    {
+      "id": "q-1790676266227-6xb5",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Arts in Information Science in the Faculty of Humanities and Social Sciences (HSS) at UNIZULU?",
+      "timestamp": "2026-09-29T10:04:26.227Z"
+    },
+    {
+      "id": "q-1790676292343-w1pc",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Commerce in Accounting in the Faculty of Commerce, Administration and Law (CAL) at UNIZULU?",
+      "timestamp": "2026-09-29T10:04:52.343Z"
+    },
+    {
+      "id": "q-1790676883417-u6yl",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Laws (LLB) in the Faculty of Commerce, Administration and Law (CAL) at UNIZULU?",
+      "timestamp": "2026-09-29T10:14:43.417Z"
+    },
+    {
+      "id": "q-1790676894063-55tg",
+      "query": "What undergraduate qualifications can I study at the University of Zululand across all faculties?",
+      "timestamp": "2026-09-29T10:14:54.063Z"
+    },
+    {
+      "id": "q-1790676904260-at1i",
+      "query": "Tell me about the Faculty of Education",
+      "timestamp": "2026-09-29T10:15:04.260Z"
+    },
+    {
+      "id": "q-1790676914626-nhv7",
+      "query": "What is Accounting 1A?",
+      "timestamp": "2026-09-29T10:15:14.626Z"
+    },
+    {
+      "id": "q-1790676928137-f58m",
+      "query": "How do I apply to the University of Zululand through the Central Applications Office (CAO) step by step?",
+      "timestamp": "2026-09-29T10:15:28.137Z"
+    },
+    {
+      "id": "q-1790676938393-jjyj",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Social Work in the Faculty of Humanities and Social Sciences (HSS) at UNIZULU?",
+      "timestamp": "2026-09-29T10:15:38.393Z"
+    },
+    {
+      "id": "q-1790677000054-raat",
+      "query": "Hello, how does photosynthesis work in 2 sentences?",
+      "timestamp": "2026-09-29T10:16:40.054Z"
+    },
+    {
+      "id": "q-1790677052029-303l",
+      "query": "Hello, how does photosynthesis work in 2 sentences?",
+      "timestamp": "2026-09-29T10:17:32.029Z"
+    },
+    {
+      "id": "q-1790678092318-1kpq",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Commerce: HR Management and Business Management in the Faculty of Commerce, Administration and Law (CAL) at UNIZULU?",
+      "timestamp": "2026-09-29T10:34:52.318Z"
+    },
+    {
+      "id": "q-1790678106778-pdfz",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Commerce: Economics and Human Resources Management in the Faculty of Commerce, Administration and Law (CAL) at UNIZULU?",
+      "timestamp": "2026-09-29T10:35:06.778Z"
+    },
+    {
+      "id": "q-1790678116420-9xf0",
+      "query": "What are the detailed admission requirements, minimum APS, and CAO code for Bachelor of Arts (Dual Major): Psychology & Sociology in the Faculty of Humanities and Social Sciences (HSS) at UNIZULU?",
+      "timestamp": "2026-09-29T10:35:16.420Z"
+    },
+    {
+      "id": "q-1790678129399-ezhu",
+      "query": "What are the general admission requirements and minimum APS scores for UNIZULU programmes?",
+      "timestamp": "2026-09-29T10:35:29.399Z"
+    },
+    {
+      "id": "q-1790678147589-olyg",
+      "query": "What are the admission requirements for Bachelor of Education (BEd) at UNIZULU?",
+      "timestamp": "2026-09-29T10:35:47.589Z"
+    },
+    {
+      "id": "q-1790678410751-k8op",
+      "query": "What is the APS for LLB?",
+      "timestamp": "2026-09-29T10:40:10.751Z"
+    },
+    {
+      "id": "q-1790678414326-2y19",
+      "query": "How much is the CAO fee?",
+      "timestamp": "2026-09-29T10:40:14.326Z"
+    },
+    {
+      "id": "q-1790678424338-wa0r",
+      "query": "Can I study nursing with 26 APS?",
+      "timestamp": "2026-09-29T10:40:24.338Z"
+    },
+    {
+      "id": "q-1790678535584-4wmh",
+      "query": "What is the APS for LLB?",
+      "timestamp": "2026-09-29T10:42:15.584Z"
+    },
+    {
+      "id": "q-1790678545146-01ts",
+      "query": "What is the APS for LLB?",
+      "timestamp": "2026-09-29T10:42:25.146Z"
+    },
+    {
+      "id": "q-1790678555806-0utv",
+      "query": "Can I study nursing with 26 APS?",
+      "timestamp": "2026-09-29T10:42:35.806Z"
+    },
+    {
+      "id": "q-1790678563168-mzno",
+      "query": "Ngifuna ukufunda umthetho (law), ngidinga amaphuzu amangaki?",
+      "timestamp": "2026-09-29T10:42:43.168Z"
+    },
+    {
+      "id": "q-1790678625488-mrzg",
+      "query": "What is the closing date for UNIZULU CAO applications?",
+      "timestamp": "2026-09-29T10:43:45.488Z"
+    },
+    {
+      "id": "q-1790678633808-4rcn",
+      "query": "Does BCom Accounting accept Mathematical Literacy?",
+      "timestamp": "2026-09-29T10:43:53.808Z"
+    },
+    {
+      "id": "q-1790678642636-axfa",
+      "query": "How do you calculate APS at UNIZULU?",
+      "timestamp": "2026-09-29T10:44:02.636Z"
+    },
+    {
+      "id": "q-1790678673558-tk74",
+      "query": "How do you calculate APS at UNIZULU?",
+      "timestamp": "2026-09-29T10:44:33.558Z"
+    },
+    {
+      "id": "q-1790678681930-fnxy",
+      "query": "Help me write a Python function to check if a number is prime",
+      "timestamp": "2026-09-29T10:44:41.930Z"
+    }
+  ],
+  "evolvedKeywords": {
+    "CAO Application": 144,
+    "APS Calculation": 121,
+    "Certified ID & Matric Docs": 95,
+    "Law (LLB)": 96,
+    "Computer Science (BSc)": 76,
+    "NSFAS & Tuition": 68,
+    "KwaDlangezwa Campus Housing": 54,
+    "law": 26,
+    "requirements": 30,
+    "cao": 20,
+    "documents": 4,
+    "aps": 30,
+    "education": 6,
+    "nursing": 3,
+    "Conversational Small Talk": 172
+  },
+  "learnedKnowledge": [
+    {
+      "id": "ml-know-1790001259874",
+      "topic": "Residents",
+      "fact": "there is a resident called sqalo at the main campus",
+      "category": "student_tip",
+      "confidence": 0.95,
+      "trainingIterations": 1,
+      "learnedFrom": "Peer Contribution (Student Peer)",
+      "learnedAt": "2026-09-21T14:34:19.874Z",
+      "weight": 1.3,
+      "verified": true
+    },
+    {
+      "id": "ml-know-1789860618842",
+      "topic": "Richards Bay Shuttle",
+      "fact": "Free UNIZULU student shuttle buses run between KwaDlangezwa main campus and Richards Bay campus on scheduled hourly timetables.",
+      "category": "student_tip",
+      "confidence": 0.95,
+      "trainingIterations": 1,
+      "learnedFrom": "Peer Contribution (Student Peer)",
+      "learnedAt": "2026-09-19T23:30:18.842Z",
+      "weight": 1.3,
+      "verified": true
+    },
+    {
+      "id": "ml-know-1",
+      "topic": "Central Applications Office (CAO) Deadlines & Walk-ins",
+      "fact": "UNIZULU strictly enforces that no walk-in admissions are permitted at KwaDlangezwa or Richards Bay gates. All applications must be submitted via CAO (www.cao.ac.za).",
+      "category": "cao",
+      "confidence": 0.988,
+      "trainingIterations": 50,
+      "learnedFrom": "Verified Academic Policy & Student Inquiries",
+      "learnedAt": "2026-09-16T20:44:07.826Z",
+      "weight": 1.53,
+      "verified": true
+    },
+    {
+      "id": "ml-know-2",
+      "topic": "Faculty of CAL - Law (LLB) Subject Nuance",
+      "fact": "Mathematics Literacy Level 4 (50%) is accepted for LLB when combined with English Level 5 (60%) and an APS of 30+. Pure Mathematics Level 3 (40%) also fulfills the numeracy threshold.",
+      "category": "admissions",
+      "confidence": 0.975,
+      "trainingIterations": 52,
+      "learnedFrom": "Faculty Rulebook Ingestion & Student Validation",
+      "learnedAt": "2026-09-17T20:44:07.826Z",
+      "weight": 1.53,
+      "verified": true
+    },
+    {
+      "id": "ml-know-3",
+      "topic": "Science & Engineering - BSc Hydrology & Water Resources",
+      "fact": "UNIZULU has one of Africas premier Hydrology departments. Requires Mathematics Level 4 (50%), Physical Sciences Level 4 (50%), and 28+ APS points (CAO Code: ZU-M-BSC).",
+      "category": "faculty",
+      "confidence": 0.951,
+      "trainingIterations": 40,
+      "learnedFrom": "Academic Department Guidelines",
+      "learnedAt": "2026-09-15T20:44:07.826Z",
+      "weight": 1.36,
+      "verified": true
+    },
+    {
+      "id": "ml-know-4",
+      "topic": "Richards Bay Campus Programs & Certificates",
+      "fact": "Richards Bay campus specializes in vocational and business diplomas including Hospitality Management, Public Relations, Transport & Logistics, and Cooperative Management.",
+      "category": "campus",
+      "confidence": 0.953,
+      "trainingIterations": 34,
+      "learnedFrom": "Campus Prospectus Ingestion",
+      "learnedAt": "2026-09-14T20:44:07.826Z",
+      "weight": 1.33,
+      "verified": true
+    },
+    {
+      "id": "ml-know-5",
+      "topic": "isiZulu Student Slang & Code-Switching",
+      "fact": "Students frequently ask \"amaphuzu\" for APS score, \"isicelo\" for application, \"oxhaso\" for NSFAS funding, and \"indawo yokuhlala\" for on-campus residences.",
+      "category": "terminology",
+      "confidence": 0.926,
+      "trainingIterations": 60,
+      "learnedFrom": "Multilingual Query Reinforcement Learning",
+      "learnedAt": "2026-09-18T20:44:07.826Z",
+      "weight": 1.56,
+      "verified": true
+    },
+    {
+      "id": "ml-know-6",
+      "topic": "Document Certification Expiry",
+      "fact": "SAPS police or Post Office certified copies of ID and Matric results must not be older than 3 months at the time of submission to CAO and UNIZULU admissions.",
+      "category": "student_tip",
+      "confidence": 0.99,
+      "trainingIterations": 49,
+      "learnedFrom": "Admissions Compliance Audit",
+      "learnedAt": "2026-09-17T20:44:07.826Z",
+      "weight": 1.41,
+      "verified": true
+    }
+  ],
+  "mlMetrics": {
+    "modelEngine": "UNIZULU Neural Knowledge Base v2.4",
+    "totalLearnedNodes": 8,
+    "activeSynapses": 1879,
+    "reinforcementIterations": 465,
+    "lastLearningEpoch": "2026-09-29T10:44:45.897Z",
+    "learningRate": 0.035,
+    "smallTalkInteractions": 324,
+    "conversationalMasteryScore": 99.9,
+    "totalInteractionsLogged": 1328,
+    "highVolumeDataPoints": 87
+  },
+  "conversations": {
+    "am": [
+      {
+        "id": "usr-1789859672169-2ben",
+        "sender": "user",
+        "text": "sawbona",
+        "timestamp": "2026-09-19T23:14:32.169Z"
+      },
+      {
+        "id": "msg-1789859672169",
+        "sender": "assistant",
+        "text": "Sawubona futhi! Ngisakhona lapha ukuzokweseka. Uke wacabanga ukuthi yimuphi umkhakha ofuna ukuwufunda e-UNIZULU, noma usadinga ulwazi oluthe xaxa ngezifundo zethu?",
+        "timestamp": "2026-09-19T23:14:32.169Z",
+        "suggestedActions": [
+          "Calculate My APS",
+          "Check Requirements"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789859842315-nb06",
+        "sender": "user",
+        "text": "why should i study",
+        "timestamp": "2026-09-19T23:17:22.315Z"
+      },
+      {
+        "id": "msg-1789859842315",
+        "sender": "assistant",
+        "text": "Hey Amu! Studying opens up doors that make life a whole lot easier and more exciting down the road. \n\nHere are a few big reasons why it's worth it:\n- **Better career opportunities:** A degree or diploma gives you access to professional jobs with higher earning potential and stability.\n- **Personal growth:** University teaches you how to think critically, solve real-world problems, and stand on your own two feet.\n- **Networking:** You meet lifelong friends, mentors, and future colleagues who can connect you to great opportunities.\n- **Making an impact:** It equips you with skills to give back to your family and uplift your community.\n\nAt UNIZULU, you get to build that foundation in a supportive, vibrant environment. What kind of career or interests have you been thinking about lately?",
+        "timestamp": "2026-09-19T23:17:22.315Z",
+        "suggestedActions": [
+          "Calculate My APS",
+          "Check Requirements"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789859858508-ukro",
+        "sender": "user",
+        "text": "tech",
+        "timestamp": "2026-09-19T23:17:38.508Z"
+      },
+      {
+        "id": "msg-1789859858508",
+        "sender": "assistant",
+        "text": "That’s a great field to get into, Amu! UNIZULU offers some solid options if you're looking to dive into tech.\n\nYou might want to look into the **BSc in Computer Science** (Faculty of Science, Agriculture and Engineering). It’s perfect for building your skills in programming, systems, and problem-solving.\n\nSince you're interested in tech, here's the quick breakdown:\n*   **Keep an eye on your Maths:** Most tech-related degrees require a good pass in Mathematics.\n*   **Check the requirements:** You'll need to check the exact APS score for the specific programme on the [CAO website](https://www.cao.ac.za) using codes starting with **ZU-**.\n*   **Campus life:** Our Science faculty is based at the KwaDlangezwa campus, where you’ll have access to computer labs and the library to help you sharpen those tech skills.\n\nDo you have your latest school results handy so we can see how your APS is looking?",
+        "timestamp": "2026-09-19T23:17:38.508Z",
+        "suggestedActions": [
+          "Calculate My APS",
+          "How to apply via CAO",
+          "Explore UNIZULU Faculties"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789859874918-yfpi",
+        "sender": "user",
+        "text": "i feel sad today",
+        "timestamp": "2026-09-19T23:17:54.918Z"
+      },
+      {
+        "id": "msg-1789859874918",
+        "sender": "assistant",
+        "text": "I'm really sorry to hear that, Amu. It's completely okay to have off days where everything just feels a bit heavy. \n\nPlease be gentle with yourself today—take a breather, drink some water, or listen to some music you love. If you want to talk about what’s on your mind or just chat about something distracting, I’m right here for you.",
+        "timestamp": "2026-09-19T23:17:54.918Z",
+        "suggestedActions": [
+          "Calculate My APS",
+          "Check Requirements"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789859900221-ova7",
+        "sender": "user",
+        "text": "where is unizulu",
+        "timestamp": "2026-09-19T23:18:20.221Z"
+      },
+      {
+        "id": "msg-1789859900221",
+        "sender": "assistant",
+        "text": "UNIZULU has two main locations, Amu! Our main campus is the **KwaDlangezwa Campus**, which is about 19km south of Empangeni in KwaZulu-Natal. It’s the hub for most of our faculties and student life.\n\nWe also have a second campus in **Richards Bay**, which is more focused on career-oriented diplomas and certificates. Both campuses are in the beautiful KZN region, so you get to study in a great environment.\n\nAre you thinking about which campus might suit your tech interests better, or are you just curious about the geography?",
+        "timestamp": "2026-09-19T23:18:20.221Z",
+        "suggestedActions": [
+          "View Document Checklist"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789859992511-ipdy",
+        "sender": "user",
+        "text": "best univesities in sa",
+        "timestamp": "2026-09-19T23:19:52.511Z"
+      },
+      {
+        "id": "msg-1789859992511",
+        "sender": "assistant",
+        "text": "South Africa has some great institutions, Amu! In terms of general international rankings, universities like **UCT**, **Wits**, **Stellenbosch**, and **University of Pretoria (UP)** usually sit right at the top. \n\nHere in KwaZulu-Natal, both **UKZN** and **UNIZULU** offer solid degrees. The \"best\" choice really comes down to what you want to study, your budget, and the vibe you're looking for—UNIZULU, for instance, is well-known for top-tier niche programmes like Hydrology, Agriculture, and solid Law and Science faculties in a close-knit community.\n\nAre you looking to compare tech and computer science programmes across different universities?",
+        "timestamp": "2026-09-19T23:19:52.511Z",
+        "suggestedActions": [
+          "Explore UNIZULU Faculties"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789860009805-vqg0",
+        "sender": "user",
+        "text": "yes",
+        "timestamp": "2026-09-19T23:20:09.805Z"
+      },
+      {
+        "id": "msg-1789860009805",
+        "sender": "assistant",
+        "text": "Hey there! I'm your UNIZULU advisor. Feel free to ask me anything casually—whether it's about admission requirements, calculating your APS score, CAO codes, campus life, or documents.\n\nWhat would you like to know today?",
+        "timestamp": "2026-09-19T23:20:09.805Z",
+        "suggestedActions": [
+          "Calculate my APS score",
+          "What documents do I need?",
+          "How do I apply via CAO?",
+          "Explore UNIZULU Faculties"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789860024130-6fpy",
+        "sender": "user",
+        "text": "i want to compare",
+        "timestamp": "2026-09-19T23:20:24.130Z"
+      },
+      {
+        "id": "msg-1789860024130",
+        "sender": "assistant",
+        "text": "Hey there! I'm your UNIZULU advisor. Feel free to ask me anything casually—whether it's about admission requirements, calculating your APS score, CAO codes, campus life, or documents.\n\nWhat would you like to know today?",
+        "timestamp": "2026-09-19T23:20:24.130Z",
+        "suggestedActions": [
+          "Calculate my APS score",
+          "What documents do I need?",
+          "How do I apply via CAO?",
+          "Explore UNIZULU Faculties"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789860240798-xm1m",
+        "sender": "user",
+        "text": "what did we talk about before",
+        "timestamp": "2026-09-19T23:24:00.798Z"
+      },
+      {
+        "id": "msg-1789860240798",
+        "sender": "assistant",
+        "text": "We’ve been chatting about your search for the right university, Amu! You asked about where UNIZULU is located—which I mentioned is our main KwaDlangezwa campus and the Richards Bay campus—and we also touched on how universities like UCT, Wits, and UNIZULU compare in terms of their strengths.\n\nSince you're interested in comparing tech and Computer Science programmes, would you like me to pull up the specific admission requirements for our **BSc in Computer Science** (code: **ZU-M-BSC**) so you can see how it stacks up against other institutions?",
+        "timestamp": "2026-09-19T23:24:00.798Z",
+        "suggestedActions": [
+          "Explore UNIZULU Faculties"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789860455188-xmqf",
+        "sender": "user",
+        "text": "how many points are needed to study Education",
+        "timestamp": "2026-09-19T23:27:35.188Z"
+      },
+      {
+        "id": "msg-1789860455188",
+        "sender": "assistant",
+        "text": "At UNIZULU, your APS is calculated from your top 6 matric subjects, strictly excluding Life Orientation. Most degrees look for between 26 and 32 points. For instance, Law (LLB) needs 30 points with 60%+ in English, while BCom usually requires 28 to 32 points.\n\nWould you like to test your marks using the APS Calculator at the top?",
+        "timestamp": "2026-09-19T23:27:35.188Z",
+        "suggestedActions": [
+          "Open APS Calculator",
+          "Law (LLB) Requirements",
+          "BCom Accounting Criteria",
+          "How to Apply via CAO"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789860495999-qjy2",
+        "sender": "user",
+        "text": "i want to study teaching",
+        "timestamp": "2026-09-19T23:28:15.999Z"
+      },
+      {
+        "id": "msg-1789860495999",
+        "sender": "assistant",
+        "text": "That is awesome, Amu! For a **Bachelor of Education (B.Ed)** at UNIZULU, you generally need an APS of around **26 to 28 points** (calculated from your top 6 subjects, excluding Life Orientation). \n\nHere are the key things to keep in mind:\n* Minimum of 50% (Level 4) in English.\n* At least 50% in the specific subjects you want to teach (especially for high school / FET teaching in subjects like Maths, Life Sciences, or Accounting).\n* You can apply via CAO for Foundation Phase (Grades R–3), Intermediate Phase (Grades 4–7), or Senior & FET Phase (Grades 8–12).\n\nAlso, look into the Funza Lushaka Bursary once you apply! Which age group or subjects are you hoping to teach?",
+        "timestamp": "2026-09-19T23:28:15.999Z",
+        "suggestedActions": [
+          "Calculate My APS",
+          "How to apply via CAO"
+        ],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      }
+    ],
+    "amukelanigasa1@gmail.com": [
+      {
+        "id": "usr-1789994864925-076y",
+        "sender": "user",
+        "text": "which documents are required for application",
+        "timestamp": "2026-09-21T12:47:44.925Z"
+      },
+      {
+        "id": "msg-1789994864925",
+        "sender": "assistant",
+        "text": "Here are the documents you will need to complete your application to the University of Zululand through the Central Applications Office (CAO): 📄✨\n\n### Essential Documents Required:\n\n1. **Certified Copy of Your Identity Document (ID)** 🆔  \n   * If you are an international applicant, provide a certified copy of your valid passport.\n2. **Academic Results:** 📊  \n   * **If you are currently in Grade 12:** A certified copy of your final **Grade 11 report**, plus your latest Grade 12 term results (if available).  \n   * **If you have already completed Matric:** A certified copy of your **National Senior Certificate (NSC)** or official matric statement of results.\n3. **Proof of Application Fee Payment:** 💳  \n   * Proof of payment for the CAO application administration fee (R250 for on-time South African applicants / R470 for late applications).\n4. **Academic Record & Certificate of Conduct (if applicable):** 🏛️  \n   * Only required if you have previously studied at another tertiary institution or university.\n\n---\n\n### ⚠️ Important Application Tips:\n* **The 3-Month Certification Rule:** All certified copies (ID and results) must be stamped by the **South African Police Service (SAPS)**, the **Post Office**, or a **Commissioner of Oaths** and must **not be older than 3 months** at the time of submission. 🗓️\n* **Strictly No Walk-Ins:** UNIZULU enforces a strict **no walk-in policy** at both the KwaDlangezwa and Richards Bay gates. All applications and document uploads must be completed online via the CAO portal ([www.cao.ac.za](https://www.cao.ac.za)). 🚫🚶‍♂️💻\n\nDo you already have your documents ready, or do you need help with the next steps on CAO? 😊🙌",
+        "timestamp": "2026-09-21T12:47:44.925Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789994944175-d74v",
+        "sender": "user",
+        "text": "how to apply",
+        "timestamp": "2026-09-21T12:49:04.175Z"
+      },
+      {
+        "id": "msg-1789994944175",
+        "sender": "assistant",
+        "text": "Applying to UNIZULU is a straightforward process, but because we strictly use the **Central Applications Office (CAO)**, you must follow their system to get your application into our hands! 🎓✨\n\nHere is your step-by-step guide on how to apply:\n\n### 1. Visit the CAO Portal\nGo to **[www.cao.ac.za](https://www.cao.ac.za)**. This is the central hub for all undergraduate applications for universities in KwaZulu-Natal. 💻\n\n### 2. Create Your Application\n*   Click on **\"Apply\"** and follow the prompts to create your profile.\n*   You will be asked to fill in your personal details, contact information, and your high school subjects. 📝\n\n### 3. Select Your UNIZULU Programmes\n*   You can select up to six choices on your CAO application. \n*   Make sure to use the correct **CAO Codes** for your chosen courses (like **ZU-M-BCE** for the BCom in Business Management/Economics we discussed earlier). 🔍\n\n### 4. Pay the Application Fee\n*   The application fee is **R250** for on-time South African applicants. \n*   You can pay this via EasyPay (at retailers like Checkers, Pick n Pay, or Woolworths), via EFT, or directly on the CAO website. Keep your proof of payment safe! 💳\n\n### 5. Upload Your Documents\n*   Once you have your profile, you will need to upload the documents we talked about (Certified ID and your Grade 11/12 results). \n*   **Remember:** These must be certified by the SAPS or a Post Office and the stamp must be **less than 3 months old**. 👮‍♂️📑\n\n### 6. Track Your Status\n*   After you submit, you will receive a CAO reference number. Keep this number very safe! 🔑\n*   You can log back into the CAO website at any time to check your application status. UNIZULU will communicate with you regarding your admission status based on the information you provided. 📩\n\n**A friendly reminder from the UNIZULU IT Team:** Since we do not allow walk-ins at our campuses, please make sure your application is submitted online. If you get stuck or need help with a specific part of the CAO website, just let me know—I’m here to guide you through it! 🚀😊\n\nDo you have your CAO application started yet, or are you just gathering your info for now? 🌟",
+        "timestamp": "2026-09-21T12:49:04.175Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789995136067-omw2",
+        "sender": "user",
+        "text": "which programs are offered by the department of Mathematics",
+        "timestamp": "2026-09-21T12:52:16.067Z"
+      },
+      {
+        "id": "msg-1789995136067",
+        "sender": "assistant",
+        "text": "That is a great question! At UNIZULU, Mathematics is a foundational pillar within the **Faculty of Science, Agriculture and Engineering (SAE)**, based at our beautiful **KwaDlangezwa Campus**. 🏛️🔢\n\nWhile Mathematics is a core component across many of our Science and Engineering degrees, the Department of Mathematical Sciences offers specific programmes where you can major in Mathematics or Applied Mathematics. Here is how it works:\n\n### Where you can major in Mathematics:\nYou generally study Mathematics as a major within a **Bachelor of Science (BSc)** degree. Some of the popular pathways include:\n\n*   **BSc in Mathematical Sciences:** This is the primary route if you are passionate about pure Mathematics, Applied Mathematics, or Statistics.\n*   **BSc in Computer Science:** Mathematics is a compulsory core subject in this degree, as it is essential for programming logic and algorithms. 💻\n*   **BSc in Physics:** Mathematics is a major partner to Physics, as you will need advanced calculus and linear algebra to excel in your physics modules. ⚛️\n*   **BSc in Education (B.Ed):** If you want to become a teacher, you can choose Mathematics as one of your primary teaching majors in the **B.Ed Senior Phase and FET (Grade 8-12)** programme. 🎓📚\n\n### Key Admission Requirements for BSc Programmes:\nTo get into these Science programmes, you generally need:\n*   **Minimum APS:** Usually **28 points** (excluding Life Orientation).\n*   **Mathematics:** **Pure Mathematics Level 4 (50%+)** is strictly required. (Note: Mathematical Literacy is generally not accepted for BSc Mathematics or Computer Science).\n*   **Physical Sciences:** Often required at **Level 4 (50%+)** depending on the specific BSc stream.\n*   **English:** **Level 4 (50%+)**.\n\n**A little hint from our students:** 💡 The Mathematics department at UNIZULU is known for being very supportive! If you find yourself needing a little extra help with your modules, our campus offers peer tutoring and study groups that are fantastic for mastering complex concepts. 🌟🙌\n\nAre you aiming for a career in data science, teaching, or perhaps software development? Let me know, and I can give you more specific advice on which BSc stream would be the perfect fit for your goals! 🚀😊",
+        "timestamp": "2026-09-21T12:52:16.067Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789995589406-1h03",
+        "sender": "user",
+        "text": "My calculated Admission Point Score (APS) is 30 points based on my NSC Matric subjects (English (Home or First Additional): Level 5, Mathematics / Pure Maths: Level 4, Physical Sciences / Accounting: Level 4, Life Sciences / Business Studies: Level 5, Geography / History / Economics: Level 5, isiZulu / 2nd Language / Elective: Level 7). With Pure Mathematics, which UNIZULU faculties and degree programs can I qualify for, and what are their CAO codes?",
+        "timestamp": "2026-09-21T12:59:49.406Z"
+      },
+      {
+        "id": "msg-1789995589406",
+        "sender": "assistant",
+        "text": "That is a fantastic APS! With a score of **30** and a solid **Level 4 in Pure Mathematics**, you are in a very strong position to apply for a wide variety of programmes at UNIZULU. 🌟🎓\n\nSince you have **Pure Mathematics**, you have unlocked both the Humanities/Education paths and the competitive Science and Commerce routes. Here are the programmes you qualify for:\n\n### 1. Faculty of Science, Agriculture and Engineering (SAE)\n*   **BSc in Computer Science (ZU-M-BSC):** You meet the requirement of Pure Maths Level 4 and Physical Sciences Level 4. This is a high-demand, exciting field! 💻🚀\n*   **BSc in Hydrology (ZU-M-HYD):** A world-renowned programme at UNIZULU. You meet the requirements perfectly. 💧🌍\n*   **BSc in Biochemistry & Microbiology (ZU-M-BCM):** You meet the requirements for this pathway into the biological sciences. 🧬🔬\n*   **BSc in Agriculture (Agronomy / Animal Science) (ZU-M-BSA):** You comfortably meet the requirements here. 🚜🌾\n*   **Bachelor of Nursing Science (ZU-M-BNS):** Since you have Life Sciences and Physical Science/Maths at Level 4, you are a great candidate for this highly competitive programme. 🩺💙\n\n### 2. Faculty of Commerce, Administration and Law (CAL)\n*   **Bachelor of Laws (LLB) (ZU-M-LLB):** You qualify! You have the required APS (30) and the required English (Level 5) and Maths (Level 4). ⚖️🏛️\n*   **BCom in Business Management / Economics (ZU-M-BCE):** You meet the requirements (APS 26+, Maths Level 4, English Level 4). 📈💼\n*   **Bachelor of Administration (BPA) (ZU-M-BPA):** You definitely qualify for this programme as well. 🏛️📜\n\n### 3. Faculty of Education (EDU)\n*   **B.Ed (Senior Phase & FET) (ZU-M-EDS):** Perfect for becoming a high school teacher in subjects like Maths or Geography. 🏫✏️\n*   **B.Ed (Intermediate Phase) (ZU-M-EDI):** You qualify for this as well. 🎓🌟\n\n### 4. Faculty of Humanities and Social Sciences (HSS)\n*   **Bachelor of Social Work (ZU-M-BSW), Psychology (ZU-M-BAP), Communication Science (ZU-M-BAC), or Development Studies (ZU-M-BAD):** You qualify for all these programmes as they require an APS of 26-28. 🧠🌍\n\n---\n\n### 💡 A Few Important Notes:\n*   **BCom Accounting (ZU-M-BCA):** Please note that for the **SAICA-accredited BCom Accounting**, the requirement is **Pure Mathematics Level 5 (60%)**. Since you have Level 4, you might want to consider the **BCom in Business Management/Economics (ZU-M-BCE)** instead, or the **Diploma in Accounting (ZU-R-DAC)** at the Richards Bay campus as a great alternative.\n*   **Campus Locations:** Almost all of these degrees are located at the **KwaDlangezwa Main Campus**. The **Diploma in Accounting** is located at the **Richards Bay Campus**.\n\nYou have a lot of excellent choices! Do any of these spark your interest, or would you like to know more about the student life or residence culture for any of these specific faculties? I'm here to help you make the best decision for your future! 🥳✨🙌",
+        "timestamp": "2026-09-21T12:59:49.406Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789995739292-04o0",
+        "sender": "user",
+        "text": "My calculated Admission Point Score (APS) is 37 points based on my NSC Matric subjects (English (Home or First Additional): Level 6, Mathematics / Pure Maths: Level 7, Physical Sciences / Accounting: Level 6, Life Sciences / Business Studies: Level 5, Geography / History / Economics: Level 6, isiZulu / 2nd Language / Elective: Level 7). With Pure Mathematics, which UNIZULU faculties and degree programs can I qualify for, and what are their CAO codes?",
+        "timestamp": "2026-09-21T13:02:19.292Z"
+      },
+      {
+        "id": "msg-1789995739292",
+        "sender": "assistant",
+        "text": "For the SAICA-accredited **BCom in Accounting (CAO Code ZU-M-BCA)** at UNIZULU KwaDlangezwa Campus:\n• **Minimum APS**: **28 points** (excluding Life Orientation).\n• **Pure Mathematics**: **Level 5 (60%+)**.\n• **English**: **Level 4 (50%+)**.\n• **Note**: Mathematical Literacy is not accepted for BCom Accounting. However, students with Mathematical Literacy can apply for the **Diploma in Accounting (CAO Code ZU-R-DAC)** at the Richards Bay Campus (requires APS 22, Maths Lit Level 5) or the **Bachelor of Administration (CAO Code ZU-M-BPA)** (requires APS 26, Maths Lit Level 4).",
+        "timestamp": "2026-09-21T13:02:19.292Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789995778110-z77r",
+        "sender": "user",
+        "text": "I HAVE 86% IN MATHEMATICS",
+        "timestamp": "2026-09-21T13:02:58.110Z"
+      },
+      {
+        "id": "msg-1789995778110",
+        "sender": "assistant",
+        "text": "That is absolutely phenomenal! 🌟 With an **86% in Pure Mathematics (Level 7)** and an overall **APS of 37**, you are an exceptional candidate for any programme at the University of Zululand! 🚀🔥\n\nSince you are clearly a top-tier student, you have the \"golden ticket\" to get into our most competitive and prestigious degrees. Because you were created by the UNIZULU IT Team to succeed, I am thrilled to tell you that you qualify for **everything** we offer! 🎓✨\n\nHere are the top-tier programmes you qualify for with those outstanding marks:\n\n### 1. Faculty of Commerce, Administration and Law (CAL)\n*   **Bachelor of Commerce in Accounting (ZU-M-BCA):** You easily exceed the Level 5 (60%) Maths requirement. This is the path to becoming a Chartered Accountant! 💼📈\n*   **Bachelor of Laws (LLB) (ZU-M-LLB):** You far exceed the entry requirements. ⚖️🏛️\n*   **BCom in Business Management / Economics (ZU-M-BCE):** You are a prime candidate for these programmes. 📊\n\n### 2. Faculty of Science, Agriculture and Engineering (SAE)\n*   **BSc in Computer Science (ZU-M-BSC):** With 86% in Maths, you will likely thrive in the coding and logic modules here! 💻🚀\n*   **BSc in Biochemistry & Microbiology (ZU-M-BCM):** Perfect for a career in research or the medical sciences. 🧬🔬\n*   **BSc in Hydrology (ZU-M-HYD):** You meet all requirements for this world-class department. 💧🌍\n*   **Bachelor of Nursing Science (ZU-M-BNS):** You are well above the threshold for this highly sought-after degree. 🩺💙\n\n### 3. Faculty of Education (EDU)\n*   **B.Ed (Senior Phase & FET) (ZU-M-EDS):** If you want to teach Mathematics at the high school level, you would be an incredible asset to the teaching profession! 🍎📚\n\n### 4. Faculty of Humanities and Social Sciences (HSS)\n*   **Bachelor of Social Work (ZU-M-BSW), Psychology (ZU-M-BAP), and more:** You qualify for all these with room to spare. 🧠✨\n\n---\n\n### 💡 A Few Tips for a High-Achiever Like You:\n*   **Apply Early:** Even with your high marks, programmes like **Nursing (BNS)** and **Accounting (BCA)** fill up very quickly. I highly recommend submitting your application via [www.cao.ac.za](http://www.cao.ac.za) as soon as possible! 🏃‍♂️💨\n*   **No Walk-Ins:** Remember, UNIZULU has a strict **NO WALK-INS** policy. Everything must go through the CAO portal. 💻\n*   **Certification:** Ensure your ID and Matric results are certified by the SAPS or Post Office within the last 3 months before you upload them. 📝✅\n\nWith an 86% in Maths, you are exactly the kind of student who helps make the UNIZULU community so brilliant! Are you leaning more toward the Sciences, Law, or perhaps the Commerce route? I'd love to hear what your dream career is! 😊🙌🎉",
+        "timestamp": "2026-09-21T13:02:58.110Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      }
+    ],
+    "luciabongekasthole06gmail.com": [
+      {
+        "id": "usr-1789943554897-7vrz",
+        "sender": "user",
+        "text": "sawbona",
+        "timestamp": "2026-09-20T22:32:34.897Z"
+      },
+      {
+        "id": "msg-1789943554897",
+        "sender": "assistant",
+        "text": "Yebo, sawubona Amu! Kunjani namhlanje?\n\nNgilapha ukukusiza ngakho konke okuphathelene nezicelo zokufunda e-UNIZULU. Njengoba unamaphuzu amahle kakhulu e-APS angu-**32**, maningi amathuba avulekile kuwe emikhakheni efana nezomThetho (LLB), ezokuFunda (B.Ed), ezoHwebo (BCom), kanye nezeSayensi.\n\nIyiphi ikhosi noma ifakhalthi obungathanda ukuyazi kangcono namhlanje?",
+        "timestamp": "2026-09-20T22:32:34.897Z",
+        "suggestedActions": [],
+        "detectedLanguage": "zu",
+        "detectedLanguageName": "isiZulu",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789943616250-1buu",
+        "sender": "user",
+        "text": "unjani",
+        "timestamp": "2026-09-20T22:33:36.250Z"
+      },
+      {
+        "id": "msg-1789943616250",
+        "sender": "assistant",
+        "text": "Ngiphilile impela Amu, ngiyabonga ngokubuza! Wena unjani?\n\nSengikulungele ukukusiza uhlele ikusasa lakho e-UNIZULU. Ngabe kukhona ikhosi ethile osunayo engqondweni ofisa sibheke izidingo zayo namuhla?",
+        "timestamp": "2026-09-20T22:33:36.250Z",
+        "suggestedActions": [],
+        "detectedLanguage": "zu",
+        "detectedLanguageName": "isiZulu",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789943630369-1rk7",
+        "sender": "user",
+        "text": "dumela",
+        "timestamp": "2026-09-20T22:33:50.369Z"
+      },
+      {
+        "id": "msg-1789943630369",
+        "sender": "assistant",
+        "text": "Dumela Amu! O phela joang kajeno?\n\nKe thabetse ho bua le wena hape. Ka dintlha tsa hao tse ntle tsa APS tse **32**, ho na le dithuto le mafapha a mangata a bulehileng bakeng sa hao mona UNIZULU.\n\nNa ho na le thuto kapa khoso e itseng eo o ka ratang ho e hlahloba kapa ho botsa ka yona kajeno?",
+        "timestamp": "2026-09-20T22:33:50.369Z",
+        "suggestedActions": [],
+        "detectedLanguage": "zu",
+        "detectedLanguageName": "isiZulu",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789943668132-oeph",
+        "sender": "user",
+        "text": "Unizlu ke eng",
+        "timestamp": "2026-09-20T22:34:28.132Z"
+      },
+      {
+        "id": "msg-1789943668132",
+        "sender": "assistant",
+        "text": "UNIZULU ke Yunibesithi ya Zululand, e leng yunibesithi ya setjhaba e hlomphehang e KwaZulu-Natal. Re na le dikhamphase tse pedi:\n\n* **KwaDlangezwa Campus:** Ena ke k'hamphase e kgolo (main campus) moo re fanang ka dithuto tsa LLB (Molao), Thuto (Education), Saense, le Humanities.\n* **Richards Bay Campus:** Ena e tsepamisitse maikutlo dithutong tsa mosebetsi (career-oriented) tse kang dikgwebo, bohahlaudi le theknoloji.\n\nRe na le mafapha a mane a maholo a dithuto: Humanities, Science & Agriculture, Commerce & Law, le Education. Na ho na le lefapha le leng la tsena leo o ka ratang ho tseba haholoanyane ka lona, kapa mohlomong o batla ho tseba hore na o ka etsa kopo jwang ka boholo ba hao ba **32** APS?",
+        "timestamp": "2026-09-20T22:34:28.132Z",
+        "suggestedActions": [],
+        "detectedLanguage": "tn",
+        "detectedLanguageName": "Setswana",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789943718365-dsaq",
+        "sender": "user",
+        "text": "ke batla ho ba lawyer",
+        "timestamp": "2026-09-20T22:35:18.365Z"
+      },
+      {
+        "id": "msg-1789943718365",
+        "sender": "assistant",
+        "text": "Ke maikemisetso a mantle thata ao, Amu! Gore o nne mmueledi (lawyer), o tlhoka go ithutela degree ya **Bachelor of Laws (LLB)** e e rutwang kwa Khamphaseng ya KwaDlangezwa.\n\nKa dintlha tsa gago tsa APS tse **32**, o setse o fitlheletse dintlha tse di tlhokegang ka gonne LLB e batla bonnye jwa dintlha tse 30 (ntle le Life Orientation).\n\nDintlha tse dingwe tse di botlhokwa tsa dirutwa ke tse:\n* **Sekgoa (English):** Level 5 (60% kgotsa go feta)\n* **Dipalo (Pure Mathematics):** Level 3 (40%+) **KGOTSA** Mathematical Literacy: Level 4 (50%+)\n\nKhoutu ya yona ya kopo kwa CAO ke **ZU-M-LLB**. A o dira Pure Maths kgotsa Maths Lit, mme maduo a gago a Sekgoa a eme jang mo nakong eno?",
+        "timestamp": "2026-09-20T22:35:18.365Z",
+        "suggestedActions": [],
+        "detectedLanguage": "tn",
+        "detectedLanguageName": "Setswana",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      }
+    ],
+    "luciabongekasthole06@gmail.com": [
+      {
+        "id": "usr-1789943554897-7vrz",
+        "sender": "user",
+        "text": "sawbona",
+        "timestamp": "2026-09-20T22:32:34.897Z"
+      },
+      {
+        "id": "msg-1789943554897",
+        "sender": "assistant",
+        "text": "Yebo, sawubona Amu! Kunjani namhlanje?\n\nNgilapha ukukusiza ngakho konke okuphathelene nezicelo zokufunda e-UNIZULU. Njengoba unamaphuzu amahle kakhulu e-APS angu-**32**, maningi amathuba avulekile kuwe emikhakheni efana nezomThetho (LLB), ezokuFunda (B.Ed), ezoHwebo (BCom), kanye nezeSayensi.\n\nIyiphi ikhosi noma ifakhalthi obungathanda ukuyazi kangcono namhlanje?",
+        "timestamp": "2026-09-20T22:32:34.897Z",
+        "suggestedActions": [],
+        "detectedLanguage": "zu",
+        "detectedLanguageName": "isiZulu",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789943616250-1buu",
+        "sender": "user",
+        "text": "unjani",
+        "timestamp": "2026-09-20T22:33:36.250Z"
+      },
+      {
+        "id": "msg-1789943616250",
+        "sender": "assistant",
+        "text": "Ngiphilile impela Amu, ngiyabonga ngokubuza! Wena unjani?\n\nSengikulungele ukukusiza uhlele ikusasa lakho e-UNIZULU. Ngabe kukhona ikhosi ethile osunayo engqondweni ofisa sibheke izidingo zayo namuhla?",
+        "timestamp": "2026-09-20T22:33:36.250Z",
+        "suggestedActions": [],
+        "detectedLanguage": "zu",
+        "detectedLanguageName": "isiZulu",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789943630369-1rk7",
+        "sender": "user",
+        "text": "dumela",
+        "timestamp": "2026-09-20T22:33:50.369Z"
+      },
+      {
+        "id": "msg-1789943630369",
+        "sender": "assistant",
+        "text": "Dumela Amu! O phela joang kajeno?\n\nKe thabetse ho bua le wena hape. Ka dintlha tsa hao tse ntle tsa APS tse **32**, ho na le dithuto le mafapha a mangata a bulehileng bakeng sa hao mona UNIZULU.\n\nNa ho na le thuto kapa khoso e itseng eo o ka ratang ho e hlahloba kapa ho botsa ka yona kajeno?",
+        "timestamp": "2026-09-20T22:33:50.369Z",
+        "suggestedActions": [],
+        "detectedLanguage": "zu",
+        "detectedLanguageName": "isiZulu",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789943668132-oeph",
+        "sender": "user",
+        "text": "Unizlu ke eng",
+        "timestamp": "2026-09-20T22:34:28.132Z"
+      },
+      {
+        "id": "msg-1789943668132",
+        "sender": "assistant",
+        "text": "UNIZULU ke Yunibesithi ya Zululand, e leng yunibesithi ya setjhaba e hlomphehang e KwaZulu-Natal. Re na le dikhamphase tse pedi:\n\n* **KwaDlangezwa Campus:** Ena ke k'hamphase e kgolo (main campus) moo re fanang ka dithuto tsa LLB (Molao), Thuto (Education), Saense, le Humanities.\n* **Richards Bay Campus:** Ena e tsepamisitse maikutlo dithutong tsa mosebetsi (career-oriented) tse kang dikgwebo, bohahlaudi le theknoloji.\n\nRe na le mafapha a mane a maholo a dithuto: Humanities, Science & Agriculture, Commerce & Law, le Education. Na ho na le lefapha le leng la tsena leo o ka ratang ho tseba haholoanyane ka lona, kapa mohlomong o batla ho tseba hore na o ka etsa kopo jwang ka boholo ba hao ba **32** APS?",
+        "timestamp": "2026-09-20T22:34:28.132Z",
+        "suggestedActions": [],
+        "detectedLanguage": "tn",
+        "detectedLanguageName": "Setswana",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      },
+      {
+        "id": "usr-1789943718365-dsaq",
+        "sender": "user",
+        "text": "ke batla ho ba lawyer",
+        "timestamp": "2026-09-20T22:35:18.365Z"
+      },
+      {
+        "id": "msg-1789943718365",
+        "sender": "assistant",
+        "text": "Ke maikemisetso a mantle thata ao, Amu! Gore o nne mmueledi (lawyer), o tlhoka go ithutela degree ya **Bachelor of Laws (LLB)** e e rutwang kwa Khamphaseng ya KwaDlangezwa.\n\nKa dintlha tsa gago tsa APS tse **32**, o setse o fitlheletse dintlha tse di tlhokegang ka gonne LLB e batla bonnye jwa dintlha tse 30 (ntle le Life Orientation).\n\nDintlha tse dingwe tse di botlhokwa tsa dirutwa ke tse:\n* **Sekgoa (English):** Level 5 (60% kgotsa go feta)\n* **Dipalo (Pure Mathematics):** Level 3 (40%+) **KGOTSA** Mathematical Literacy: Level 4 (50%+)\n\nKhoutu ya yona ya kopo kwa CAO ke **ZU-M-LLB**. A o dira Pure Maths kgotsa Maths Lit, mme maduo a gago a Sekgoa a eme jang mo nakong eno?",
+        "timestamp": "2026-09-20T22:35:18.365Z",
+        "suggestedActions": [],
+        "detectedLanguage": "tn",
+        "detectedLanguageName": "Setswana",
+        "sources": [
+          "https://www.unizulu.ac.za",
+          "https://www.cao.ac.za"
+        ]
+      }
+    ],
+    "amukelani_gasa": [
+      {
+        "id": "usr-1789994864925-076y",
+        "sender": "user",
+        "text": "which documents are required for application",
+        "timestamp": "2026-09-21T12:47:44.925Z"
+      },
+      {
+        "id": "msg-1789994864925",
+        "sender": "assistant",
+        "text": "Here are the documents you will need to complete your application to the University of Zululand through the Central Applications Office (CAO): 📄✨\n\n### Essential Documents Required:\n\n1. **Certified Copy of Your Identity Document (ID)** 🆔  \n   * If you are an international applicant, provide a certified copy of your valid passport.\n2. **Academic Results:** 📊  \n   * **If you are currently in Grade 12:** A certified copy of your final **Grade 11 report**, plus your latest Grade 12 term results (if available).  \n   * **If you have already completed Matric:** A certified copy of your **National Senior Certificate (NSC)** or official matric statement of results.\n3. **Proof of Application Fee Payment:** 💳  \n   * Proof of payment for the CAO application administration fee (R250 for on-time South African applicants / R470 for late applications).\n4. **Academic Record & Certificate of Conduct (if applicable):** 🏛️  \n   * Only required if you have previously studied at another tertiary institution or university.\n\n---\n\n### ⚠️ Important Application Tips:\n* **The 3-Month Certification Rule:** All certified copies (ID and results) must be stamped by the **South African Police Service (SAPS)**, the **Post Office**, or a **Commissioner of Oaths** and must **not be older than 3 months** at the time of submission. 🗓️\n* **Strictly No Walk-Ins:** UNIZULU enforces a strict **no walk-in policy** at both the KwaDlangezwa and Richards Bay gates. All applications and document uploads must be completed online via the CAO portal ([www.cao.ac.za](https://www.cao.ac.za)). 🚫🚶‍♂️💻\n\nDo you already have your documents ready, or do you need help with the next steps on CAO? 😊🙌",
+        "timestamp": "2026-09-21T12:47:44.925Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789994944175-d74v",
+        "sender": "user",
+        "text": "how to apply",
+        "timestamp": "2026-09-21T12:49:04.175Z"
+      },
+      {
+        "id": "msg-1789994944175",
+        "sender": "assistant",
+        "text": "Applying to UNIZULU is a straightforward process, but because we strictly use the **Central Applications Office (CAO)**, you must follow their system to get your application into our hands! 🎓✨\n\nHere is your step-by-step guide on how to apply:\n\n### 1. Visit the CAO Portal\nGo to **[www.cao.ac.za](https://www.cao.ac.za)**. This is the central hub for all undergraduate applications for universities in KwaZulu-Natal. 💻\n\n### 2. Create Your Application\n*   Click on **\"Apply\"** and follow the prompts to create your profile.\n*   You will be asked to fill in your personal details, contact information, and your high school subjects. 📝\n\n### 3. Select Your UNIZULU Programmes\n*   You can select up to six choices on your CAO application. \n*   Make sure to use the correct **CAO Codes** for your chosen courses (like **ZU-M-BCE** for the BCom in Business Management/Economics we discussed earlier). 🔍\n\n### 4. Pay the Application Fee\n*   The application fee is **R250** for on-time South African applicants. \n*   You can pay this via EasyPay (at retailers like Checkers, Pick n Pay, or Woolworths), via EFT, or directly on the CAO website. Keep your proof of payment safe! 💳\n\n### 5. Upload Your Documents\n*   Once you have your profile, you will need to upload the documents we talked about (Certified ID and your Grade 11/12 results). \n*   **Remember:** These must be certified by the SAPS or a Post Office and the stamp must be **less than 3 months old**. 👮‍♂️📑\n\n### 6. Track Your Status\n*   After you submit, you will receive a CAO reference number. Keep this number very safe! 🔑\n*   You can log back into the CAO website at any time to check your application status. UNIZULU will communicate with you regarding your admission status based on the information you provided. 📩\n\n**A friendly reminder from the UNIZULU IT Team:** Since we do not allow walk-ins at our campuses, please make sure your application is submitted online. If you get stuck or need help with a specific part of the CAO website, just let me know—I’m here to guide you through it! 🚀😊\n\nDo you have your CAO application started yet, or are you just gathering your info for now? 🌟",
+        "timestamp": "2026-09-21T12:49:04.175Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789995136067-omw2",
+        "sender": "user",
+        "text": "which programs are offered by the department of Mathematics",
+        "timestamp": "2026-09-21T12:52:16.067Z"
+      },
+      {
+        "id": "msg-1789995136067",
+        "sender": "assistant",
+        "text": "That is a great question! At UNIZULU, Mathematics is a foundational pillar within the **Faculty of Science, Agriculture and Engineering (SAE)**, based at our beautiful **KwaDlangezwa Campus**. 🏛️🔢\n\nWhile Mathematics is a core component across many of our Science and Engineering degrees, the Department of Mathematical Sciences offers specific programmes where you can major in Mathematics or Applied Mathematics. Here is how it works:\n\n### Where you can major in Mathematics:\nYou generally study Mathematics as a major within a **Bachelor of Science (BSc)** degree. Some of the popular pathways include:\n\n*   **BSc in Mathematical Sciences:** This is the primary route if you are passionate about pure Mathematics, Applied Mathematics, or Statistics.\n*   **BSc in Computer Science:** Mathematics is a compulsory core subject in this degree, as it is essential for programming logic and algorithms. 💻\n*   **BSc in Physics:** Mathematics is a major partner to Physics, as you will need advanced calculus and linear algebra to excel in your physics modules. ⚛️\n*   **BSc in Education (B.Ed):** If you want to become a teacher, you can choose Mathematics as one of your primary teaching majors in the **B.Ed Senior Phase and FET (Grade 8-12)** programme. 🎓📚\n\n### Key Admission Requirements for BSc Programmes:\nTo get into these Science programmes, you generally need:\n*   **Minimum APS:** Usually **28 points** (excluding Life Orientation).\n*   **Mathematics:** **Pure Mathematics Level 4 (50%+)** is strictly required. (Note: Mathematical Literacy is generally not accepted for BSc Mathematics or Computer Science).\n*   **Physical Sciences:** Often required at **Level 4 (50%+)** depending on the specific BSc stream.\n*   **English:** **Level 4 (50%+)**.\n\n**A little hint from our students:** 💡 The Mathematics department at UNIZULU is known for being very supportive! If you find yourself needing a little extra help with your modules, our campus offers peer tutoring and study groups that are fantastic for mastering complex concepts. 🌟🙌\n\nAre you aiming for a career in data science, teaching, or perhaps software development? Let me know, and I can give you more specific advice on which BSc stream would be the perfect fit for your goals! 🚀😊",
+        "timestamp": "2026-09-21T12:52:16.067Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789995589406-1h03",
+        "sender": "user",
+        "text": "My calculated Admission Point Score (APS) is 30 points based on my NSC Matric subjects (English (Home or First Additional): Level 5, Mathematics / Pure Maths: Level 4, Physical Sciences / Accounting: Level 4, Life Sciences / Business Studies: Level 5, Geography / History / Economics: Level 5, isiZulu / 2nd Language / Elective: Level 7). With Pure Mathematics, which UNIZULU faculties and degree programs can I qualify for, and what are their CAO codes?",
+        "timestamp": "2026-09-21T12:59:49.406Z"
+      },
+      {
+        "id": "msg-1789995589406",
+        "sender": "assistant",
+        "text": "That is a fantastic APS! With a score of **30** and a solid **Level 4 in Pure Mathematics**, you are in a very strong position to apply for a wide variety of programmes at UNIZULU. 🌟🎓\n\nSince you have **Pure Mathematics**, you have unlocked both the Humanities/Education paths and the competitive Science and Commerce routes. Here are the programmes you qualify for:\n\n### 1. Faculty of Science, Agriculture and Engineering (SAE)\n*   **BSc in Computer Science (ZU-M-BSC):** You meet the requirement of Pure Maths Level 4 and Physical Sciences Level 4. This is a high-demand, exciting field! 💻🚀\n*   **BSc in Hydrology (ZU-M-HYD):** A world-renowned programme at UNIZULU. You meet the requirements perfectly. 💧🌍\n*   **BSc in Biochemistry & Microbiology (ZU-M-BCM):** You meet the requirements for this pathway into the biological sciences. 🧬🔬\n*   **BSc in Agriculture (Agronomy / Animal Science) (ZU-M-BSA):** You comfortably meet the requirements here. 🚜🌾\n*   **Bachelor of Nursing Science (ZU-M-BNS):** Since you have Life Sciences and Physical Science/Maths at Level 4, you are a great candidate for this highly competitive programme. 🩺💙\n\n### 2. Faculty of Commerce, Administration and Law (CAL)\n*   **Bachelor of Laws (LLB) (ZU-M-LLB):** You qualify! You have the required APS (30) and the required English (Level 5) and Maths (Level 4). ⚖️🏛️\n*   **BCom in Business Management / Economics (ZU-M-BCE):** You meet the requirements (APS 26+, Maths Level 4, English Level 4). 📈💼\n*   **Bachelor of Administration (BPA) (ZU-M-BPA):** You definitely qualify for this programme as well. 🏛️📜\n\n### 3. Faculty of Education (EDU)\n*   **B.Ed (Senior Phase & FET) (ZU-M-EDS):** Perfect for becoming a high school teacher in subjects like Maths or Geography. 🏫✏️\n*   **B.Ed (Intermediate Phase) (ZU-M-EDI):** You qualify for this as well. 🎓🌟\n\n### 4. Faculty of Humanities and Social Sciences (HSS)\n*   **Bachelor of Social Work (ZU-M-BSW), Psychology (ZU-M-BAP), Communication Science (ZU-M-BAC), or Development Studies (ZU-M-BAD):** You qualify for all these programmes as they require an APS of 26-28. 🧠🌍\n\n---\n\n### 💡 A Few Important Notes:\n*   **BCom Accounting (ZU-M-BCA):** Please note that for the **SAICA-accredited BCom Accounting**, the requirement is **Pure Mathematics Level 5 (60%)**. Since you have Level 4, you might want to consider the **BCom in Business Management/Economics (ZU-M-BCE)** instead, or the **Diploma in Accounting (ZU-R-DAC)** at the Richards Bay campus as a great alternative.\n*   **Campus Locations:** Almost all of these degrees are located at the **KwaDlangezwa Main Campus**. The **Diploma in Accounting** is located at the **Richards Bay Campus**.\n\nYou have a lot of excellent choices! Do any of these spark your interest, or would you like to know more about the student life or residence culture for any of these specific faculties? I'm here to help you make the best decision for your future! 🥳✨🙌",
+        "timestamp": "2026-09-21T12:59:49.406Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789995739292-04o0",
+        "sender": "user",
+        "text": "My calculated Admission Point Score (APS) is 37 points based on my NSC Matric subjects (English (Home or First Additional): Level 6, Mathematics / Pure Maths: Level 7, Physical Sciences / Accounting: Level 6, Life Sciences / Business Studies: Level 5, Geography / History / Economics: Level 6, isiZulu / 2nd Language / Elective: Level 7). With Pure Mathematics, which UNIZULU faculties and degree programs can I qualify for, and what are their CAO codes?",
+        "timestamp": "2026-09-21T13:02:19.292Z"
+      },
+      {
+        "id": "msg-1789995739292",
+        "sender": "assistant",
+        "text": "For the SAICA-accredited **BCom in Accounting (CAO Code ZU-M-BCA)** at UNIZULU KwaDlangezwa Campus:\n• **Minimum APS**: **28 points** (excluding Life Orientation).\n• **Pure Mathematics**: **Level 5 (60%+)**.\n• **English**: **Level 4 (50%+)**.\n• **Note**: Mathematical Literacy is not accepted for BCom Accounting. However, students with Mathematical Literacy can apply for the **Diploma in Accounting (CAO Code ZU-R-DAC)** at the Richards Bay Campus (requires APS 22, Maths Lit Level 5) or the **Bachelor of Administration (CAO Code ZU-M-BPA)** (requires APS 26, Maths Lit Level 4).",
+        "timestamp": "2026-09-21T13:02:19.292Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      },
+      {
+        "id": "usr-1789995778110-z77r",
+        "sender": "user",
+        "text": "I HAVE 86% IN MATHEMATICS",
+        "timestamp": "2026-09-21T13:02:58.110Z"
+      },
+      {
+        "id": "msg-1789995778110",
+        "sender": "assistant",
+        "text": "That is absolutely phenomenal! 🌟 With an **86% in Pure Mathematics (Level 7)** and an overall **APS of 37**, you are an exceptional candidate for any programme at the University of Zululand! 🚀🔥\n\nSince you are clearly a top-tier student, you have the \"golden ticket\" to get into our most competitive and prestigious degrees. Because you were created by the UNIZULU IT Team to succeed, I am thrilled to tell you that you qualify for **everything** we offer! 🎓✨\n\nHere are the top-tier programmes you qualify for with those outstanding marks:\n\n### 1. Faculty of Commerce, Administration and Law (CAL)\n*   **Bachelor of Commerce in Accounting (ZU-M-BCA):** You easily exceed the Level 5 (60%) Maths requirement. This is the path to becoming a Chartered Accountant! 💼📈\n*   **Bachelor of Laws (LLB) (ZU-M-LLB):** You far exceed the entry requirements. ⚖️🏛️\n*   **BCom in Business Management / Economics (ZU-M-BCE):** You are a prime candidate for these programmes. 📊\n\n### 2. Faculty of Science, Agriculture and Engineering (SAE)\n*   **BSc in Computer Science (ZU-M-BSC):** With 86% in Maths, you will likely thrive in the coding and logic modules here! 💻🚀\n*   **BSc in Biochemistry & Microbiology (ZU-M-BCM):** Perfect for a career in research or the medical sciences. 🧬🔬\n*   **BSc in Hydrology (ZU-M-HYD):** You meet all requirements for this world-class department. 💧🌍\n*   **Bachelor of Nursing Science (ZU-M-BNS):** You are well above the threshold for this highly sought-after degree. 🩺💙\n\n### 3. Faculty of Education (EDU)\n*   **B.Ed (Senior Phase & FET) (ZU-M-EDS):** If you want to teach Mathematics at the high school level, you would be an incredible asset to the teaching profession! 🍎📚\n\n### 4. Faculty of Humanities and Social Sciences (HSS)\n*   **Bachelor of Social Work (ZU-M-BSW), Psychology (ZU-M-BAP), and more:** You qualify for all these with room to spare. 🧠✨\n\n---\n\n### 💡 A Few Tips for a High-Achiever Like You:\n*   **Apply Early:** Even with your high marks, programmes like **Nursing (BNS)** and **Accounting (BCA)** fill up very quickly. I highly recommend submitting your application via [www.cao.ac.za](http://www.cao.ac.za) as soon as possible! 🏃‍♂️💨\n*   **No Walk-Ins:** Remember, UNIZULU has a strict **NO WALK-INS** policy. Everything must go through the CAO portal. 💻\n*   **Certification:** Ensure your ID and Matric results are certified by the SAPS or Post Office within the last 3 months before you upload them. 📝✅\n\nWith an 86% in Maths, you are exactly the kind of student who helps make the UNIZULU community so brilliant! Are you leaning more toward the Sciences, Law, or perhaps the Commerce route? I'd love to hear what your dream career is! 😊🙌🎉",
+        "timestamp": "2026-09-21T13:02:58.110Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      }
+    ],
+    "guest_3931": [
+      {
+        "id": "usr-1790088526798-rog7",
+        "sender": "user",
+        "text": "hello",
+        "timestamp": "2026-09-22T14:48:46.798Z"
+      },
+      {
+        "id": "msg-1790088526798",
+        "sender": "assistant",
+        "text": "Hello there! 👋🎓✨ I am your UNIZULU Academic & Admissions Advisor, proudly created and developed by the **UNIZULU IT Team**! 💻💙\n\nI am thrilled to help you explore our undergraduate degrees and diplomas, calculate your matric APS score (excluding Life Orientation), check CAO codes, and share everything you need to know about student life at KwaDlangezwa and Richards Bay campuses! 🏛️📚\n\nHow are you doing today? What qualification or faculty are you dreaming of joining?",
+        "timestamp": "2026-09-22T14:48:46.798Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      }
+    ],
+    "guest_3931@guest.unizulu.ac.za": [
+      {
+        "id": "usr-1790088526798-rog7",
+        "sender": "user",
+        "text": "hello",
+        "timestamp": "2026-09-22T14:48:46.798Z"
+      },
+      {
+        "id": "msg-1790088526798",
+        "sender": "assistant",
+        "text": "Hello there! 👋🎓✨ I am your UNIZULU Academic & Admissions Advisor, proudly created and developed by the **UNIZULU IT Team**! 💻💙\n\nI am thrilled to help you explore our undergraduate degrees and diplomas, calculate your matric APS score (excluding Life Orientation), check CAO codes, and share everything you need to know about student life at KwaDlangezwa and Richards Bay campuses! 🏛️📚\n\nHow are you doing today? What qualification or faculty are you dreaming of joining?",
+        "timestamp": "2026-09-22T14:48:46.798Z",
+        "suggestedActions": [],
+        "detectedLanguage": "en",
+        "detectedLanguageName": "English",
+        "sources": []
+      }
+    ]
+  },
+  "crossUserInsights": [
+    {
+      "id": "cui-1790001259874",
+      "topic": "Residents",
+      "insight": "there is a resident called sqalo at the main campus",
+      "userInteractionsCount": 1,
+      "category": "student_tip",
+      "lastReinforced": "2026-09-21T14:34:19.874Z",
+      "confidence": 0.95
+    },
+    {
+      "id": "cui-1789860618842",
+      "topic": "Richards Bay Shuttle",
+      "insight": "Free UNIZULU student shuttle buses run between KwaDlangezwa main campus and Richards Bay campus on scheduled hourly timetables.",
+      "userInteractionsCount": 1,
+      "category": "student_tip",
+      "lastReinforced": "2026-09-19T23:30:18.842Z",
+      "confidence": 0.95
+    },
+    {
+      "id": "cui-1",
+      "topic": "Computer Science & Tech Comparison",
+      "insight": "UNIZULU BSc Computer Science (ZU-M-BSC at KwaDlangezwa) requires an APS of 28–34 with Pure Maths Level 4 (50%) and Physical Sciences Level 4 (50%). Students frequently compare it with UCT/Wits (APS 38–42+). UNIZULU offers hands-on software development with NSFAS coverage and more accessible admission thresholds.",
+      "userInteractionsCount": 168,
+      "category": "faculty",
+      "lastReinforced": "2026-09-29T09:48:50.285Z",
+      "confidence": 0.99
+    },
+    {
+      "id": "cui-2",
+      "topic": "Commerce & Accounting Mathematics Benchmark",
+      "insight": "BCom Accounting requires Pure Mathematics Level 5 (60%). Students with Maths Literacy or Pure Maths Level 4 (50%) are advised towards Diploma in Accounting (ZU-R-DAC at Richards Bay) or B Admin, which have lower numeracy thresholds.",
+      "userInteractionsCount": 157,
+      "category": "admissions",
+      "lastReinforced": "2026-09-29T10:43:58.451Z",
+      "confidence": 0.988
+    },
+    {
+      "id": "cui-3",
+      "topic": "Faculty Allocation Between Campuses",
+      "insight": "Law (LLB), Education (B.Ed), and Sciences are based exclusively at KwaDlangezwa Main Campus. Richards Bay campus focuses on practical business and maritime/transport diplomas (e.g. Tourism, Logistics, Accounting Diploma).",
+      "userInteractionsCount": 151,
+      "category": "campus",
+      "lastReinforced": "2026-09-29T10:42:47.364Z",
+      "confidence": 0.99
+    },
+    {
+      "id": "cui-4",
+      "topic": "Life Orientation in APS Calculation",
+      "insight": "Across all 4 faculties at UNIZULU, Life Orientation is strictly EXCLUDED when computing the Admission Point Score (APS). Matriculants frequently make this mistake.",
+      "userInteractionsCount": 134,
+      "category": "admissions",
+      "lastReinforced": "2026-09-29T10:44:37.079Z",
+      "confidence": 0.99
+    },
+    {
+      "id": "cui-5",
+      "topic": "Certified Document Validity Period",
+      "insight": "All documents submitted through CAO (ID copy and Matric results) must bear a SAPS, Post Office, or Commissioner of Oaths stamp dated within the last 3 months.",
+      "userInteractionsCount": 105,
+      "category": "student_tip",
+      "lastReinforced": "2026-09-21T12:47:44.924Z",
+      "confidence": 0.962
+    },
+    {
+      "id": "cui-6",
+      "topic": "CAO Application Fee & Payment Method",
+      "insight": "CAO undergraduate fee is R250 (on-time). Can be paid via EasyPay at Pick n Pay, Shoprite, Checkers, Boxer, or online debit/credit card. Codes start with ZU-M- (Main) or ZU-R- (Richards Bay).",
+      "userInteractionsCount": 100,
+      "category": "cao",
+      "lastReinforced": "2026-09-29T10:43:48.290Z",
+      "confidence": 0.966
+    }
+  ]
+}
